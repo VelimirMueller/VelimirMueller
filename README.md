@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VelimirMueller
 - 👀 I’m interested in Webdevelopment & Python Programming <3
-- 🌱 I’m currently learning Laravel 8, TailwindCss, Python Backend Stuff
+- 🌱 I’m currently learning Laravel 8, TailwindCss, Python Development and other Backend Stuff
 - 💞️ I’m looking to collaborate on Bigbluebutton and more
 - 📫 How to reach me velimir.mueller@outlook.com
 
