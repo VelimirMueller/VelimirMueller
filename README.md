@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VelimirMueller
-- 👀 I graduated i July 2021 as an IT Specialist for Application Development and most of the time I am busy with Web Development & Python Programming <3
+- 👀 I graduated in June 2021 as an IT Specialist for Application Development and most of the time I am busy with Web Development & Python Programming <3
 - 🌱 I enjoy most working with Symfony or Laravel, VueJS, TailwindCss, SCSS or Bootstrap
 - 📫 !!! CURRENTLY LOOKING FOR A JUNIOR WEB DEVELOPER POSITION: How to reach me??? velimir.mueller@gmail.com !!! 
 
