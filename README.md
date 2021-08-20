@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VelimirMueller
-- 👀 I’m interested in Webdevelopment & Python Programming <3
-- 🌱 I’m enjoy working with Laravel 8, TailwindCss, Python and Backend Stuff
-- 💞️ currently working with: RoR - Bigbluebutton - Sass - Python - Linux - Docker - React
-- 📫 How to reach me velimir.mueller@gmail.com
+- 👀 I am an IT Specialist for Application Development and most of the time I am busy with Web Development & Python Programming <3
+- 🌱 I enjoy working with Symfony, Laravel 8, VueJS, TailwindCss, SCSS and Bootstrap
+- 📫 !!! CURRENTLY LOOKING FOR A JUNIOR WEB DEVELOPER POSITION: How to reach me??? velimir.mueller@gmail.com !!! 
 
 <!---
 VelimirMueller/VelimirMueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
