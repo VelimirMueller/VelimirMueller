@@ -3,6 +3,8 @@ ____
 
 Various Projects written in:
 - JavaScrip, TypeScript, Python, Kotlin, Rust
+- Vue, Nuxt, Vuetify, React
+- Postgres, Docker
  
 <!---
 VelimirMueller/VelimirMueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
