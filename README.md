@@ -2,7 +2,7 @@
 ____
 
 Various Projects written in:
-- JavaScrip, TypeScript, Python, Kotlin, Rust
+- JavaScrip, TypeScript, Python, Kotlin
 - Vue, Nuxt, Vuetify, React
 - Postgres, Docker
  
