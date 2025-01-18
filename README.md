@@ -24,7 +24,7 @@ A sleek and responsive Nuxt3-based application for real-time chat functionality.
 #### 🔵 Aurorae WS Chatbot API - to [repo](https://github.com/VelimirMueller/aurorae_ws_chatbot_api)
 A powerful Flask and Docker-based GPT4ALL chatbot websocket server.
 
-#### 🔵 Aurorae Landing Page - to [repo]https://github.com/VelimirMueller/aurorae_landing_page(https://github.com/VelimirMueller/aurorae_landing_page)
+#### 🔵 Aurorae Landing Page - to [repo](https://github.com/VelimirMueller/aurorae_landing_page)
 A visually appealing landing page created with Vuetify, showcasing the Aurorae ecosystem.
 
 #### 🔵 Aurorae Backend - to [repo](https://github.com/VelimirMueller/aurorae_backend)
