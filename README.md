@@ -2,7 +2,7 @@
 ____
 # Projects
 
-<img src="https://github.com/user-attachments/assets/f1cc341f-6155-41eb-8c18-aa80645a9a80" width="64" height="64"> 
+<img src="https://github.com/user-attachments/assets/f1cc341f-6155-41eb-8c18-aa80645a9a80" width="150" height="150"> 
 
 ## The Aurorae Project
 
