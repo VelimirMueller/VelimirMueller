@@ -18,19 +18,19 @@ Aurorae leverages a variety of modern tools and frameworks to deliver a world-cl
 
 ### 📌 Key Projects
 
-#### 🔵 Aurorae Chat Frontend
+#### 🔵 Aurorae Chat Frontend - to [repo](https://github.com/VelimirMueller/aurorae_chat_frontend)
 A sleek and responsive Nuxt3-based application for real-time chat functionality.
 
-#### 🔵 Aurorae WS Chatbot API
+#### 🔵 Aurorae WS Chatbot API - to [repo](https://github.com/VelimirMueller/aurorae_ws_chatbot_api)
 A powerful Flask and Docker-based GPT4ALL chatbot websocket server.
 
-#### 🔵 Aurorae Landing Page
+#### 🔵 Aurorae Landing Page - to [repo]https://github.com/VelimirMueller/aurorae_landing_page(https://github.com/VelimirMueller/aurorae_landing_page)
 A visually appealing landing page created with Vuetify, showcasing the Aurorae ecosystem.
 
-#### 🔵 Aurorae Backend
+#### 🔵 Aurorae Backend - to [repo](https://github.com/VelimirMueller/aurorae_backend)
 A Kotlin-based backend built with the Quarkus framework for user verification and subscription management.
 
-#### 🔵 Aurorae Images Frontend
+#### 🔵 Aurorae Images Frontend - to [repo]()
 An intuitive Vue-based frontend for image classification.
 
 ---
