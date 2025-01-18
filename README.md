@@ -1,10 +1,6 @@
 👋 Hi, I’m @VelimirMueller - Frontend focused fullstack Engineer
 ____
-# Projects
-
-
-
-## The Aurorae Project
+# The Aurorae Project
 
 <img src="https://github.com/user-attachments/assets/f1cc341f-6155-41eb-8c18-aa80645a9a80" width="300" height="300" alt="The Aurorae project logo"> 
 
