@@ -3,7 +3,7 @@ ____
 # Projects
 
 ## The Aurorae Project
-<div style="background-image: url('https://github.com/user-attachments/assets/add23ac9-de8e-4828-876d-f16a39a46029)'); background-size: cover; padding: 20px; color: white; text-align: center;">hell</div>
+![image](https://github.com/user-attachments/assets/862c9730-c748-40b3-9732-7d290b2caff2){width=300 height=200}
 
 
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
