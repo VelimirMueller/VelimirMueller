@@ -4,6 +4,7 @@ ____
 
 
 <img src="https://github.com/user-attachments/assets/f1cc341f-6155-41eb-8c18-aa80645a9a80" width="200" height="200">
+
 ## The Aurorae Project
 
 
