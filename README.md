@@ -10,7 +10,7 @@ Aurorae is an innovative ecosystem of applications designed to provide seamless 
 Aurorae leverages a variety of modern tools and frameworks to deliver a world-class experience:
 
 - **Frontend**: Vue, Nuxt3, Vuetify
-- **Backend**: Flask, Docker, Quarkus Framework
+- **Backend**: Flask, FastAPI, Quarkus Framework
 - **Languages**: JavaScript, TypeScript, Python, Kotlin, PHP
 - **Database & Infrastructure**: Postgres, Docker
 
