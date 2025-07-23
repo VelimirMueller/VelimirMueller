@@ -5,7 +5,6 @@ I'm a passionate (senior) software engineer with several years of experience bui
 
 I enjoy working across the stack - from intuitive Vue.js frontends to secure Flask and Quarkus backends and game development with Rust and the Bevy Engine. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
 <details>
----
 
 ### 🔧 Technologies I Enjoy Working With
 - **Frontend**: Vue 3, React, Vite, Webpack, TailwindCSS, Pinia, TypeScript
@@ -25,9 +24,9 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 - I learn by building - most of my GitHub projects are live experiments.
 - I’m always open to feedback, ideas, and collaboration.
 
----
 </details>
 
+# Projects
 ____
 # <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
