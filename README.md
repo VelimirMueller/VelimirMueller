@@ -42,10 +42,6 @@
 
   <!-- 🗄️ Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <!-- low code and more -->
-  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zoho-FF0000?style=for-the-badge&logo=zoho&logoColor=white" />
 </p>
 
 
