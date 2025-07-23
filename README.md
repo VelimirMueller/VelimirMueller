@@ -1,7 +1,5 @@
-<h1 style="display: flex; align-items: center; gap: 10px;">
-  <svg xmlns="http://www.w3.org/2000/svg" class="icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="32" height="32" style="color:#4FC08D;">
-    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.121 17.804A12.07 12.07 0 0112 15c2.52 0 4.87.843 6.879 2.267M12 12a4 4 0 100-8 4 4 0 000 8z" />
-  </svg>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Velimir_Mueller-%F0%9F%91%87-blue?style=for-the-badge" alt="Velimir badge" />
   Hi, I’m Velimir Mueller
 </h1>
 <p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
