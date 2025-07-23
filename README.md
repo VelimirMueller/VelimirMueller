@@ -58,7 +58,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 <br>
 
-<details>
+<details align="center">
 <summary><strong>🔧 Technologies I Enjoy Working With</strong></summary>
 
 - **Frontend**: Vue 3, React, Vite, Webpack, TailwindCSS, Pinia, TypeScript  
@@ -69,7 +69,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-<details>
+<details align="center">
 <summary><strong>🔍 What I'm Currently Exploring</strong></summary>
 
 - LLMs and document intelligence  
@@ -79,7 +79,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-<details>
+<details align="center">
 <summary><strong>🧠 Fun Facts</strong></summary>
 
 - I care deeply about performance and user experience.  
@@ -91,8 +91,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 <br>
 
-# <img align="center" src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
-
+# <p align="center"><img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project </p>
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
 
 
