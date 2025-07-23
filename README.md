@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I’m Velimir Mueller</h1>
+<h1>
+  <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB-blue?style=for-the-badge" alt="code icon" /> 
+  Hi, I’m Velimir Mueller
+</h1>
 <p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
 <br>
