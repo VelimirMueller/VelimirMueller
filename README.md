@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-
+<h2>About me...</h2>
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.
 
 I enjoy working across the stack - from intuitive Vue.js frontends to secure Flask, FastAPI and Quarkus backends as well as game development with Rust and the Bevy Engine. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
