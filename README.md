@@ -85,10 +85,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 <br>
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="35" height="35" alt="The Aurorae project logo">
-  <span style="font-size: 24px;"><b>The Aurorae Project</b></span>
-</p>
+## <p align="left"><img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="35" height="35" alt="The Aurorae project logo"><span style="font-size: 24px;"><b>The Aurorae Project</b></span></p>
 
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
 
