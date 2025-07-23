@@ -26,7 +26,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-# Projects
+
 
 # <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
