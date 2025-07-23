@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Velimir Mueller</h1>
+<h1 align="left">👋 Hi, I’m Velimir Mueller</h1>
 
 <p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
@@ -47,7 +47,7 @@
 </p>
 
 <br>
-<h1 align="center">👨‍💻 About me </h1>
+<h1 align="left">👨‍💻 About me </h1>
 <p>
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.<br><br>
 I enjoy working across the stack - from intuitive Vue.js frontends to secure Flask, FastAPI and Quarkus backends as well as game development with Rust and the Bevy Engine. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
@@ -87,7 +87,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 <br>
 
-# <p align="center"><img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="35" height="35" alt="The Aurorae project logo"> The Aurorae Project </p>
+# <p align="left"><img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="35" height="35" alt="The Aurorae project logo"> The Aurorae Project </p>
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
 
 
@@ -132,7 +132,7 @@ An intuitive Vue-based frontend for image classification.
 
 <br>
 
-# <p align="center">🤝 Get Involved</p>
+# <p align="left">🤝 Get Involved</p>
 
 We welcome contributions and ideas! Feel free to explore, fork, and star the repositories.
 
