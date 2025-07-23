@@ -1,4 +1,35 @@
 👋 Hi, I’m @VelimirMueller - Frontend/Fullstack Engineer
+
+
+I'm a passionate software developer with 5+ years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures.
+
+I enjoy working across the stack — from intuitive Vue.js frontends to secure Flask and Quarkus backends. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
+
+---
+
+### 🔧 Technologies I Enjoy Working With
+- **Frontend**: Vue 3, React, Vite, Webpack, TailwindCSS, Pinia, TypeScript
+- **Backend**: Python (Flask, FastAPI), Kotlin (Quarkus), Node.js
+- **DevOps**: Docker, GitHub Actions, NGINX
+- **Databases**: PostgreSQL
+- **Languages**: JavaScript/TypeScript, Python, Kotlin, Rust, WebAssembly
+
+---
+
+### 🔍 What I'm Currently Exploring
+- LLMs and document intelligence
+- Multi-language NLP (German/English)
+- Secure authentication and scalable backend design
+- Building developer-first tools with clean UI/UX
+
+---
+
+### 🧠 Fun Facts
+- I care deeply about performance and user experience.
+- I learn by building - most of my GitHub projects are live experiments.
+- I’m always open to feedback, ideas, and collaboration.
+
+---
 ____
 # <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
