@@ -30,6 +30,7 @@ I enjoy working across the stack — from intuitive Vue.js frontends to secure F
 - I’m always open to feedback, ideas, and collaboration.
 
 ---
+</details>
 ____
 # <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
@@ -44,9 +45,6 @@ Aurorae leverages a variety of modern tools and frameworks to deliver a world-cl
 - **Backend**: Flask, FastAPI, Quarkus Framework
 - **Languages**: JavaScript, TypeScript, Python, Kotlin, PHP
 - **Database & Infrastructure**: Postgres, Docker
-
----
-</details>
 
 ### 📌 Key Projects
 
