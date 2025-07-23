@@ -50,7 +50,7 @@
 
 <br>
 
-<h2>About me...</h2>
+<h2 align="center">About me...</h2>
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.
 
 I enjoy working across the stack - from intuitive Vue.js frontends to secure Flask, FastAPI and Quarkus backends as well as game development with Rust and the Bevy Engine. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
@@ -90,7 +90,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 <br>
 
-# <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
+# <img align="center" src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
 
