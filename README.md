@@ -131,7 +131,7 @@ An intuitive Vue-based frontend for image classification.
 
 <br>
 
-# <p align="center">🤝 Get Involved</p>
+### <p align="left">🤝 Get Involved</p>
 
 We welcome contributions and ideas! Feel free to explore, fork, and star the repositories.
 
