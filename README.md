@@ -102,7 +102,7 @@ Aurorae leverages a variety of modern tools and frameworks to deliver a world-cl
 - **Languages**: JavaScript, TypeScript, Python, Kotlin, PHP  
 - **Database & Infrastructure**: Postgres, Docker  
 
-
+<br>
 
 
 <details>
