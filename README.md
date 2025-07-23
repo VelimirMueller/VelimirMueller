@@ -1,7 +1,7 @@
 <h1>Hi, I’m Velimir Mueller</h1>
-<p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
+<p>Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
-<p align="center">
+<p>
 
   <!-- 🌐 Frontend -->
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
