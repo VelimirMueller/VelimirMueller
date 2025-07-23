@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
 
+  <!-- low code and more -->
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoho-FF0000?style=for-the-badge&logo=zoho&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT4All-6E4AFF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 
