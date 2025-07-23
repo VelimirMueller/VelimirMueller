@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Velimir Mueller</h1>
+<h1>Hi, I’m Velimir Mueller</h1>
 <p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
 <p align="center">
