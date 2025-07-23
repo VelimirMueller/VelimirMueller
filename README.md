@@ -1,10 +1,10 @@
-👋 # Hi, I’m @VelimirMueller - Frontend/Fullstack Engineer
+### 👋 Hi, I’m @VelimirMueller - Frontend/Fullstack Engineer
 
 
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.
 
 I enjoy working across the stack — from intuitive Vue.js frontends to secure Flask and Quarkus backends. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
-
+<details>
 ---
 
 ### 🔧 Technologies I Enjoy Working With
@@ -14,15 +14,11 @@ I enjoy working across the stack — from intuitive Vue.js frontends to secure F
 - **Databases**: PostgreSQL
 - **Languages**: JavaScript/TypeScript, Python, Kotlin, Rust, WebAssembly
 
----
-
 ### 🔍 What I'm Currently Exploring
 - LLMs and document intelligence
 - Multi-language NLP (German/English)
 - Secure authentication and scalable backend design
 - Building developer-first tools with clean UI/UX
-
----
 
 ### 🧠 Fun Facts
 - I care deeply about performance and user experience.
@@ -30,11 +26,13 @@ I enjoy working across the stack — from intuitive Vue.js frontends to secure F
 - I’m always open to feedback, ideas, and collaboration.
 
 ---
+</details>
+
 ____
 # <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
-<projects>
+<details>
 
 ---
 
