@@ -53,6 +53,8 @@ I'm a passionate (senior) software engineer with several years of experience bui
 
 I enjoy working across the stack - from intuitive Vue.js frontends to secure Flask, FastAPI and Quarkus backends as well as game development with Rust and the Bevy Engine. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
 
+<br>
+
 <details>
 <summary><strong>🔧 Technologies I Enjoy Working With</strong></summary>
 
@@ -131,6 +133,8 @@ An intuitive Vue-based frontend for image classification.
 </details>
 
 ---
+
+<br>
 
 ### 🤝 Get Involved
 We welcome contributions and ideas! Feel free to explore, fork, and star the repositories.
