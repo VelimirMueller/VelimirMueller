@@ -130,8 +130,10 @@ An intuitive Vue-based frontend for image classification.
 
 </details>
 
+<br>
 
-### 🤝 Get Involved
+# <p align="center">🤝 Get Involved</p>
+
 We welcome contributions and ideas! Feel free to explore, fork, and star the repositories.
 
 <!---
