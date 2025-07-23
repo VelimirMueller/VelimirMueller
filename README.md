@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-
+<br>
 <h1 align="center">👨‍💻 About me </h1>
 <p>
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.<br><br>
@@ -85,7 +85,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-
+<br>
 # <p align="center"><img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="35" height="35" alt="The Aurorae project logo"> The Aurorae Project </p>
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
 
