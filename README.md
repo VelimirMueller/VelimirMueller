@@ -51,14 +51,14 @@
 <br>
 
 <h2 align="center">About me...</h2>
-<p align="center">
-  I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.<br>
+<p>
+I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.<br>
 I enjoy working across the stack - from intuitive Vue.js frontends to secure Flask, FastAPI and Quarkus backends as well as game development with Rust and the Bevy Engine. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
 </p>
 
 <br>
 
-<details align="center">
+<details>
 <summary><strong>🔧 Technologies I Enjoy Working With</strong></summary>
 
 - **Frontend**: Vue 3, React, Vite, Webpack, TailwindCSS, Pinia, TypeScript  
@@ -69,7 +69,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-<details align="center">
+<details>
 <summary><strong>🔍 What I'm Currently Exploring</strong></summary>
 
 - LLMs and document intelligence  
@@ -79,7 +79,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-<details align="center">
+<details>
 <summary><strong>🧠 Fun Facts</strong></summary>
 
 - I care deeply about performance and user experience.  
