@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+
+
 <h2>About me...</h2>
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.
 
@@ -80,7 +82,7 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
----
+
 
 # <img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="25" height="25" alt="The Aurorae project logo"> The Aurorae Project 
 
@@ -94,6 +96,9 @@ Aurorae leverages a variety of modern tools and frameworks to deliver a world-cl
 - **Backend**: Flask, FastAPI, Quarkus Framework  
 - **Languages**: JavaScript, TypeScript, Python, Kotlin, PHP  
 - **Database & Infrastructure**: Postgres, Docker  
+
+
+
 
 <details>
 <summary><strong>📌 Key Projects</strong></summary>
@@ -113,7 +118,7 @@ A Kotlin-based backend built with the Quarkus framework for user verification an
 #### 🔵 Aurorae Images Frontend - to [repo]()  
 An intuitive Vue-based frontend for image classification.
 
----
+
 
 ### 🌟 Why Choose Aurorae?
 - **Scalability**: Modular architecture to handle growth effortlessly.  
