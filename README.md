@@ -94,7 +94,6 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
 
-<br>
 
 ### 🚀 Core Technologies
 Aurorae leverages a variety of modern tools and frameworks to deliver a world-class experience:
