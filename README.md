@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Velimir_Mueller-%F0%9F%91%87-blue?style=for-the-badge" alt="Velimir badge" />
-  Hi, I’m Velimir Mueller
-</h1>
+<h1 align="center">👋 Hi, I’m Velimir Mueller</h1>
+
 <p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
 <br>
