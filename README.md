@@ -2,8 +2,6 @@
 
 <p align="center">Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
-<br>
-
 <p align="center">
 
   <!-- 🌐 Frontend -->
@@ -48,9 +46,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-___
-
-<br>
 
 <h1 align="center">👨‍💻 About me </h1>
 <p>
@@ -90,9 +85,6 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 
 </details>
 
-___
-
-<br>
 
 # <p align="center"><img src="https://github.com/user-attachments/assets/12134a80-87bf-4ae1-8ee8-aeceb3309204" width="35" height="35" alt="The Aurorae project logo"> The Aurorae Project </p>
 Aurorae is an innovative ecosystem of applications designed to provide seamless user experiences for chat, image classification, and landing page solutions. Built with cutting-edge technologies, Aurorae combines elegance, efficiency, and scalability and brings the power of machine learning and llm to your web application. Also includes API services so you can integrated Aurorae to your own projects easily.
@@ -137,9 +129,6 @@ An intuitive Vue-based frontend for image classification.
 
 </details>
 
----
-
-<br>
 
 ### 🤝 Get Involved
 We welcome contributions and ideas! Feel free to explore, fork, and star the repositories.
