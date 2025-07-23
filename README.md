@@ -4,7 +4,7 @@
 I'm a passionate (senior) software engineer with several years of experience building modern web applications with clean code, thoughtful UI/UX, and scalable backend systems. My focus is on crafting smooth user experiences, performant APIs, and maintainable architectures and I am a huge fan of TDD.
 
 I enjoy working across the stack — from intuitive Vue.js frontends to secure Flask and Quarkus backends. Recently, I've been diving into AI/ML-powered apps, applying natural language processing and image classification in real-world tools.
-
+<details>
 ---
 
 ### 🔧 Technologies I Enjoy Working With
@@ -46,6 +46,7 @@ Aurorae leverages a variety of modern tools and frameworks to deliver a world-cl
 - **Database & Infrastructure**: Postgres, Docker
 
 ---
+</details>
 
 ### 📌 Key Projects
 
