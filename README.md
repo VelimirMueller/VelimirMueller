@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I’m @VelimirMueller - Frontend/Fullstack Engineer</h1>
+<h1 align="center">👋 Hi, I’m @VelimirMueller</h1>
+
+🎯 Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate
 
 <p align="center">
 
