@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m @VelimirMueller 🎯 Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate
-</h1>
+<h1 align="center">👋 Hi, I’m @VelimirMueller</h1>
+<p clign="center">🎯 Fullstack Developer | Frontend Specialist | AI/LLM Explorer | OSS Advocate</p>
 
 <p align="center">
 
