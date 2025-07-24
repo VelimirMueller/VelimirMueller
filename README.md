@@ -69,7 +69,6 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 <summary><strong>🔍 What I'm Currently Exploring</strong></summary>
 
 - LLMs and document intelligence  
-- Multi-language NLP (German/English)  
 - Secure authentication and scalable backend design  
 - Building developer-first tools with clean UI/UX  
 
