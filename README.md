@@ -57,9 +57,9 @@ I enjoy working across the stack - from intuitive Vue.js frontends to secure Fla
 <details>
 <summary><strong>🔧 Technologies I Enjoy Working With</strong></summary>
 
-- **Frontend**: Vue 3, React, Vite, Webpack, TailwindCSS, Pinia, TypeScript  
-- **Backend**: Python (Flask, FastAPI), Kotlin (Quarkus), Node.js  
-- **DevOps**: Docker, GitHub Actions, NGINX  
+- **Frontend**: Vue 3, React, Vite, Webpack, TailwindCSS, Pinia, TypeScript, jest, vitest, playwright
+- **Backend**: Python (Flask, FastAPI), Kotlin (Quarkus), Node.js, pytest, junit
+- **DevOps**: Docker, GitHub Actions, NGINX. AWS
 - **Databases**: PostgreSQL  
 - **Languages**: JavaScript/TypeScript, Python, Kotlin, Rust, WebAssembly  
 
@@ -93,7 +93,8 @@ Aurorae is an innovative ecosystem of applications designed to provide seamless 
 ### 🚀 Core Technologies
 Aurorae leverages a variety of modern tools and frameworks to deliver a world-class experience:
 
-- **Frontend**: Vue, Nuxt3, Vuetify  
+- **Frontend**: Vue, Nuxt3, Vuetify
+- **UI/UX**: Figma
 - **Backend**: Flask, FastAPI, Quarkus Framework  
 - **Languages**: JavaScript, TypeScript, Python, Kotlin, PHP  
 - **Database & Infrastructure**: Postgres, Docker  
