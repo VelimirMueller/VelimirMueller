@@ -38,20 +38,6 @@ From requirements engineering to branding to deployment -- everything end-to-end
 
 <br>
 
-#### The Aurorae Project
-
-An ecosystem of applications bringing ML and LLM capabilities to web apps -- chat interfaces, image classification, and API services you can integrate into your own projects.
-
-| Repository | Stack | Description |
-|:-----------|:------|:------------|
-| [aurorae_chat_frontend](https://github.com/VelimirMueller/aurorae_chat_frontend) | Nuxt 3 | Real-time chat interface |
-| [aurorae_ws_chatbot_api](https://github.com/VelimirMueller/aurorae_ws_chatbot_api) | Flask, Docker, GPT4All | WebSocket chatbot server |
-| [aurorae_landing_page](https://github.com/VelimirMueller/aurorae_landing_page) | Vuetify | Ecosystem landing page |
-| [aurorae_backend](https://github.com/VelimirMueller/aurorae_backend) | Kotlin, Quarkus | User verification & subscriptions |
-| aurorae_images_frontend | Vue 3 | Image classification UI |
-
-<br>
-
 ---
 
 <br>
