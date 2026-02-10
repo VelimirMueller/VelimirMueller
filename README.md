@@ -6,7 +6,7 @@
  \___/|_____|_____|___|_|  |_|___|_| \_\ |_|  |_|\___/|_____|_____|_____|_____|_| \_\
 ```
 
-### Senior Frontend Engineer
+### Senior Frontend Engineer / Product Engineer
 
 I translate business requirements into polished UX/UI concepts and ship them with a modern stack.
 From requirements engineering to branding to deployment -- everything end-to-end.
