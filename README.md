@@ -35,6 +35,7 @@ From requirements engineering to branding to deployment -- everything end-to-end
 #### Currently building
 
 **[velimir-mueller.de](https://velimir-mueller.de)** -- Personal portfolio & service platform built with Next.js 14, Supabase, Tailwind CSS, and deployed on Vercel. Showcasing end-to-end product engineering: requirements analysis, UX/UI design, frontend development, and automated deployment.
+<img width="1826" height="667" alt="image" src="https://github.com/user-attachments/assets/2e41d0d0-8525-4878-a4bf-84a33aa208af" />
 
 <br>
 
