@@ -41,6 +41,9 @@ From requirements engineering to branding to deployment -- everything end-to-end
 Lead Qualification Service --  Lead import, qualification & appointment scheduling platform for sales teams. Built with laravel and react. Features lead scoring, seller assignment with capacity management, pipeline tracking (New → Follow-up → Scheduled → Lost), and real-time conversion analytics while providing a stunning ui.
 <img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/a08346d1-4d2c-4f2e-b500-8f9f4859c71b" />
 
+<br>
+PlanFlow — Enterprise project planning dashboard with sprint tracking, milestone management, and real-time team activity. Built with Next.js, Supabase, Tailwind CSS, and CI/CD auto-deployment on Vercel.
+<img width="1568" height="743" alt="image" src="https://github.com/user-attachments/assets/7ef3b2c6-04d8-43fd-970e-7577742a2a53" />
 
 ---
 
