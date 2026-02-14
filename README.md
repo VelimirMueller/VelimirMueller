@@ -35,20 +35,26 @@ From requirements engineering to branding to deployment -- everything end-to-end
 #### Currently building
 
 
-**[velimir-mueller.de](https://velimir-mueller.de)** -- Personal portfolio & service platform built with Next.js 14, Supabase, Tailwind CSS, and deployed on Vercel. Showcasing end-to-end product engineering: requirements analysis, UX/UI design, frontend development, and automated deployment.
+**[velimir-mueller.de](https://velimir-mueller.de)** — Personal portfolio & service platform built with Next.js 14, Supabase, Tailwind CSS, and deployed on Vercel. Showcasing end-to-end product engineering: requirements analysis, UX/UI design, frontend development, and automated deployment.
+
+<br>
+
 <img width="1913" height="845" alt="image" src="https://github.com/user-attachments/assets/110ad8aa-0784-4690-b985-2d0203f419da" />
 
+<br><br>
 
-
-<br>
-Lead Qualification Service --  Lead import, qualification & appointment scheduling platform for sales teams. Built with laravel and react. Features lead scoring, seller assignment with capacity management, pipeline tracking (New → Follow-up → Scheduled → Lost), and real-time conversion analytics while providing a stunning ui.
-<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/a08346d1-4d2c-4f2e-b500-8f9f4859c71b" />
-
-
-
+**Lead Qualification Service** — Lead import, qualification & appointment scheduling platform for sales teams. Built with Laravel and React. Features lead scoring, seller assignment with capacity management, pipeline tracking (New → Follow-up → Scheduled → Lost), and real-time conversion analytics while providing a stunning UI.
 
 <br>
-PlanFlow — Enterprise project planning dashboard with sprint tracking, milestone management, and real-time team activity. Built with Next.js, Supabase, Tailwind CSS, and CI/CD auto-deployment on Vercel.
+
+<img width="1888" height="887" alt="image" src="https://github.com/user-attachments/assets/15fc36ae-239d-4aa3-9194-05365e37755c" />
+
+<br><br>
+
+**PlanFlow** — Enterprise project planning dashboard with sprint tracking, milestone management, and real-time team activity. Built with Next.js, Supabase, Tailwind CSS, and CI/CD auto-deployment on Vercel.
+
+<br>
+
 <img width="1568" height="743" alt="image" src="https://github.com/user-attachments/assets/7ef3b2c6-04d8-43fd-970e-7577742a2a53" />
 
 ---
