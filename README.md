@@ -17,7 +17,7 @@ From requirements engineering to branding to deployment -- everything end-to-end
 // skills.json
 {
   "frontend":  ["Next.js", "React", "Vue 3", "Nuxt", "TypeScript", "Tailwind CSS"],
-  "backend":   ["Node.js", "Flask", "FastAPI", "Quarkus"],
+  "backend":   ["Node.js", "Quarkus", "FastAPI", "Laravel"],
   "languages": ["TypeScript", "JavaScript", "Python", "Kotlin", "Rust", "WASM"],
   "testing":   ["Jest", "Vitest", "Playwright", "Pytest", "JUnit"],
   "platform":  ["Vercel", "Supabase", "Docker", "GitHub Actions", "AWS", "Nginx"],
