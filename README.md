@@ -40,7 +40,10 @@ From requirements engineering to branding to deployment -- everything end-to-end
 <br>
 <br>
 
-**vlm-code-context-explorer-mcp** - MCP server that indexes codebases into a SQLite database, exposing file metadata, exports, dependency graphs, and per-file change tracking.
+**[vlm-code-context-explorer-mcp](https://github.com/VelimirMueller/vlm-code-context-mcp)** - MCP server that indexes codebases into a SQLite database, exposing file metadata, exports, dependency graphs, and per-file change tracking.
+
+<br>
+<br>
 
 #### What I'm exploring
 
