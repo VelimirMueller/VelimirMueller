@@ -34,16 +34,7 @@ From requirements engineering to branding to deployment -- everything end-to-end
 
 #### Currently building
 
-
-**[velimir-mueller.de](https://velimir-mueller.de)** - Personal portfolio & service platform built with Next.js 14, Supabase, Tailwind CSS, and deployed on Vercel. Showcasing end-to-end product engineering: requirements analysis, UX/UI design, frontend development, and automated deployment.
-
-<br>
-<br>
-
 **[vlm-code-context-explorer-mcp](https://github.com/VelimirMueller/vlm-code-context-mcp)** - MCP server that indexes codebases into a SQLite database, exposing file metadata, exports, dependency graphs, and per-file change tracking.
-
-<br>
-<br>
 
 #### What I'm exploring
 
