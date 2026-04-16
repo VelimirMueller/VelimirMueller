@@ -34,6 +34,13 @@ From requirements engineering to branding to deployment -- everything end-to-end
 
 **[vlm-code-context-explorer-mcp](https://github.com/VelimirMueller/vlm-code-context-mcp)** - MCP server that indexes codebases into a SQLite database, exposing file metadata, exports, dependency graphs, and per-file change tracking.
 
+
+I made my AI coding agent argue with a local Gemma 3 model about whether my tool actually works. Then I used the debate to build a statistically rigorous benchmark. Here's what happened.
+roughly 44% token sabings (and the best part is, claude gets a development history and learns from past mistakes due to the retrospective process after each sprint)
+
+<img width="1239" height="716" alt="benchmark2" src="https://github.com/user-attachments/assets/46f301ca-c11b-44bd-b581-e2186e5fbe26" />
+
+
 #### What I'm exploring
 
 - LLMs and document intelligence
