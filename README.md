@@ -32,7 +32,7 @@ From requirements engineering to branding to deployment -- everything end-to-end
 
 #### Currently building
 
-**[vlm-code-context-explorer-mcp](https://github.com/VelimirMueller/vlm-code-context-mcp)** - MCP server that indexes codebases into a SQLite database, exposing file metadata, exports, dependency graphs, and per-file change tracking.
+**[vlm-code-context-mcp](https://github.com/VelimirMueller/vlm-code-context-mcp)** - MCP server that indexes codebases into a SQLite database, exposing file metadata, exports, dependency graphs, and per-file change tracking.
 
 
 I made my AI coding agent argue with a local Gemma 3 model about whether my tool actually works. Then I used the debate to build a statistically rigorous benchmark. Here's what happened.
