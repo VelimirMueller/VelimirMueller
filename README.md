@@ -97,7 +97,6 @@ Most of my tooling is private. This is how it works, at a high level.
 - **Local first.** Image generation, document creation and code search run on my machine.
 - **One versioned setup.** The whole rig is pinned, logged and health-checked with one command.
 
-<!-- TODO(velimir): your stance, 3-4 lines, in your own words. Draft below. -->
 > I use AI to go faster, not to stop thinking.
 > Every tool in my rig proposes. None of them merges, deploys or closes a ticket on its own.
 > When a model and a rule disagree, the rule wins. When they agree, I still read the diff.
