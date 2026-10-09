@@ -13,3 +13,11 @@ Negative prompt for all: text, letters, logo, watermark, people, clutter, oversa
 - strip-rig (52): wide macro shot of a dark high-end control room console, glowing circuit traces and fine cables converging into one central processor, teal and violet light, shallow depth of field, near-black, minimal, premium industrial design, no people, no text
 - strip-work (53): wide cinematic night landscape of a futuristic energy grid, rows of solar panels and tall transmission towers with thin glowing teal and violet power lines running to a distant dark city, light haze, near-black sky, minimal, premium, no people, no text
 - strip-built (54): wide cinematic view of a dark futuristic workshop bench at night, a disassembled glowing hardware module, precise tools laid out in order, thin teal and violet rim light, faint red indicator, near-black, minimal, premium product photography, no people, no text
+
+## Social previews (z-image-turbo, 1536x768, resized to 1280x640, q80)
+Negative prompt: text, letters, logo, watermark, people, clutter, oversaturated (synthwerk adds: vehicles, bus, car).
+
+- social-synthwerk (64): abstract aerial view of a dark modular city made of glowing circuit blocks, thin teal and violet light lines connecting districts, one bright main light artery crossing the city diagonally, near-black, minimal, premium, volumetric haze, no vehicles, no text
+- social-code-context (62): a constellation of glowing nodes and fine edges forming a dependency graph inside a dark void, one dense luminous cluster on the right, teal and violet, subtle grid, macro depth of field, no text
+- social-portfolio (65): a hyperspace tunnel of many dense thin light streaks rushing toward a bright vanishing point on the right side, teal streaks above, violet streaks below, glowing red-white core, motion blur, near-black edges, cinematic, premium, no text
+- Do not write "bus line" in a prompt: z-image-turbo draws a city bus.
