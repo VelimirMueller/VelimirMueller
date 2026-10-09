@@ -21,6 +21,9 @@ ROOT = os.path.normpath(os.path.join(HERE, ".."))
 _spec = importlib.util.spec_from_file_location("mb", os.path.join(HERE, "make-banner.py"))
 mb = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(mb)
+_lspec = importlib.util.spec_from_file_location("ml", os.path.join(HERE, "make-logo.py"))
+ml = importlib.util.module_from_spec(_lspec)
+_lspec.loader.exec_module(ml)
 THEMES, MONO, MONO_B, SANS, t, pill, defs, page, card = (
     mb.THEMES, mb.MONO, mb.MONO_B, mb.SANS, mb.t, mb.pill, mb.defs, mb.page, mb.card)
 
@@ -86,7 +89,10 @@ def hero(theme):
              card(rx, ly, rw, lh, th, uid, grid=True)]
 
     ix, top = lx + 36, ly + 30
-    p, _ = pill(ix, top, "BERLIN · BUILDING WITH AI, NOT BY AI", th)
+    # Brand lockup: the VM logo mark, then the pill beside it.
+    ms = 44
+    parts.append(f'<g transform="translate({ix},{top - 9}) scale({ms / 512})">{ml.mark(theme, 512, uid=f"{uid}-mark")}</g>')
+    p, _ = pill(ix + ms + 14, top, "BERLIN · BUILDING WITH AI, NOT BY AI", th)
     parts.append(p)
     size, y = 96, top + 58 + 96 * 0.70
     for line in ("VELIMIR", "MÜLLER."):
