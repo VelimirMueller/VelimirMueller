@@ -1,16 +1,20 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/hero-v1-dark.svg">
-  <img alt="VELIMIR MÜLLER. Senior Product Engineer. Full-Stack, infrastructure, agent tooling. Models propose, rules gate, I decide." src="assets/banner/hero-v1-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/hero-v2-dark.svg">
+  <img alt="VELIMIR MÜLLER. Senior Product Engineer. Full-Stack, infrastructure, agent tooling. Models propose, rules gate, I decide." src="assets/banner/hero-v2-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://velimir-mueller.de"><img alt="Website" src="https://img.shields.io/badge/velimir--mueller.de-10b981?style=for-the-badge&labelColor=18181b"></a>
+  <a href="https://velimir-mueller.de"><img alt="Website" src="https://img.shields.io/badge/velimir--mueller.de-6366f1?style=for-the-badge&labelColor=18181b"></a>
   <a href="https://www.linkedin.com/in/velimir-m%C3%BCller-07b460175"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-27272a?style=for-the-badge&labelColor=18181b"></a>
   <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-27272a?style=for-the-badge&labelColor=18181b"></a>
 </p>
 
 I ship products end to end: requirements, UX/UI, full-stack code, cloud deployment.
 Today I also build the AI tooling around that work. The models do more of the typing. I still own every decision.
+
+| Product engineering | AI tooling | Platform |
+|---|---|---|
+| Requirements to release: UX/UI, full-stack code, tests, rollout | Agent pipelines with gated reviews, MCP servers, local models | Vercel, Supabase, AWS, Azure, Terraform, CI that blocks bad merges |
 
 ```text
 [ NOW    ]  senior product engineer @ galvany, berlin
@@ -24,22 +28,22 @@ Today I also build the AI tooling around that work. The models do more of the ty
 
 <a href="https://github.com/VelimirMueller/synthwerk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/synthwerk-v1-dark.svg">
-    <img alt="SYNTHWERK. Modular AI services. In development, milestone M0." src="assets/cards/synthwerk-v1-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/synthwerk-v2-dark.svg">
+    <img alt="SYNTHWERK. Modular AI services. In development, milestone M0." src="assets/cards/synthwerk-v2-light.svg" width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/VelimirMueller/vlm-code-context-mcp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/code-context-v1-dark.svg">
-    <img alt="CODE CONTEXT. MCP server for AI coding agents. Released on npm." src="assets/cards/code-context-v1-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/code-context-v2-dark.svg">
+    <img alt="CODE CONTEXT. MCP server for AI coding agents. Released on npm." src="assets/cards/code-context-v2-light.svg" width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/VelimirMueller/portfolio-website">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/portfolio-v1-dark.svg">
-    <img alt="PORTFOLIO. velimir-mueller.de. Live." src="assets/cards/portfolio-v1-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/portfolio-v2-dark.svg">
+    <img alt="PORTFOLIO. velimir-mueller.de. Live." src="assets/cards/portfolio-v2-light.svg" width="100%">
   </picture>
 </a>
 
@@ -135,12 +139,14 @@ Most of my tooling is private. This is how it works, at a high level.
 }
 ```
 
-```text
- ██  ██  ██   ██
- ██  ██  ███ ███
- ██  ██  ███████
-  ████   ██ █ ██
-   ██    ██   ██  ██
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/vm-logo-v1-dark.svg">
+    <img alt="VM, Velimir Müller" src="assets/logo/vm-logo-v1-light.svg" width="72">
+  </picture>
+</p>
 
- berlin. building with ai, not by ai.
-```
+<p align="center">
+  <sub><b>Velimir Müller</b> · Senior Product Engineer · Berlin<br>
+  <a href="https://velimir-mueller.de">velimir-mueller.de</a> · building with AI, not by AI</sub>
+</p>
