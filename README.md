@@ -9,12 +9,17 @@
   <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-27272a?style=for-the-badge&labelColor=18181b"></a>
 </p>
 
+```text
+-- 00 ------------------------------------------------------- PROFILE --
+```
+
 I ship products end to end: requirements, UX/UI, full-stack code, cloud deployment.
 Today I also build the AI tooling around that work. The models do more of the typing. I still own every decision.
 
-| Product engineering | AI tooling | Platform |
-|---|---|---|
-| Requirements to release: UX/UI, full-stack code, tests, rollout | Agent pipelines with gated reviews, MCP servers, local models | Vercel, Supabase, AWS, Azure, Terraform, CI that blocks bad merges |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panels/capabilities-v1-dark.svg">
+  <img alt="What I do. Product engineering: requirements to release. AI tooling: agent pipelines with gated reviews, MCP servers, local models. Platform: Vercel, Supabase, AWS, Azure, Terraform, CI that blocks bad merges." src="assets/panels/capabilities-v1-light.svg" width="100%">
+</picture>
 
 ```text
 [ NOW    ]  senior product engineer @ galvany, berlin
@@ -23,7 +28,7 @@ Today I also build the AI tooling around that work. The models do more of the ty
 ```
 
 ```text
--- 01 ------------------------------------------------------ FLAGSHIPS --
+-- 01 ----------------------------------------------------- FLAGSHIPS --
 ```
 
 <a href="https://github.com/VelimirMueller/synthwerk">
@@ -49,19 +54,10 @@ Today I also build the AI tooling around that work. The models do more of the ty
 
 **Synthwerk** is one map of small services, one repo per role:
 
-```text
-  +----------+   +----------+   +----------+   +----------+
-  |  STUDIO  |   | WIDGETS  |   |   SDK    |   | BLUEPRINT|
-  | nuxt 4   |   | vue ce   |   | tokens   |   | ci, lint |
-  +----+-----+   +----+-----+   +----+-----+   +----------+
-       |              |              |          shared by all
-  =====+==============+==============+=========================
-       |              |              |
-  +----+-----+   +----+-----+   +----+-----+
-  | IDENTITY |   |   LLM    |   |  VISION  |
-  | go       |   | go, sse  |   | python   |
-  +----------+   +----------+   +----------+
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panels/synthwerk-map-v1-dark.svg">
+  <img alt="Synthwerk map. Studio, widgets and SDK on one API contract over identity, LLM and vision. Blueprint is shared by all repos." src="assets/panels/synthwerk-map-v1-light.svg" width="100%">
+</picture>
 
 | Repo | Role | Status |
 |---|---|---|
@@ -80,20 +76,10 @@ Today I also build the AI tooling around that work. The models do more of the ty
 
 Most of my tooling is private. This is how it works, at a high level.
 
-```text
-  +--------+    +--------+    +-----------+    +-----------+    +------+
-  | TICKET |--->|  SPEC  |--->| IMPLEMENT |--->| 2 REVIEWS |--->| SHIP |
-  |  me    |    | model  |    |  models   |    | both must |    |  me  |
-  |        |    | + me   |    |           |    |  approve  |    |      |
-  +--------+    +--------+    +-----------+    +-----------+    +------+
-                                                     |
-       a model can flag a risk, it cannot clear one  |
-       a missing reviewer means BLOCKED, not skipped v
-                                               +-----------+
-                                               |  MEMORY   |
-                                               |  lessons  |
-                                               +-----------+
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panels/rig-v1-dark.svg">
+  <img alt="The rig. Ticket by me, spec by a model and me, implement by models, two reviews that both must approve, ship by me. Reviews feed a memory of lessons." src="assets/panels/rig-v1-light.svg" width="100%">
+</picture>
 
 - **Gated reviews.** Two independent models review every change. Both must approve before a PR opens.
 - **Deploy verdicts by rules.** A release check reads the merged PRs and gives GO or HOLD. Fixed rules decide the verdict. A model writes the release notes, never the verdict.
@@ -118,7 +104,7 @@ Most of my tooling is private. This is how it works, at a high level.
 - The code is private. The case studies are on [velimir-mueller.de](https://velimir-mueller.de).
 
 ```text
--- 04 --------------------------------------------------- ALSO BUILT --
+-- 04 ---------------------------------------------------- ALSO BUILT --
 ```
 
 | Project | What |
@@ -137,6 +123,10 @@ Most of my tooling is private. This is how it works, at a high level.
   "testing":   ["Vitest", "Jest", "Playwright", "Pytest", "visual regression"],
   "ai":        ["Claude Code", "MCP", "LangGraph", "ONNX", "local models on MLX"]
 }
+```
+
+```text
+-- EOF ------------------------------------------- THANKS FOR READING --
 ```
 
 <p align="center">
