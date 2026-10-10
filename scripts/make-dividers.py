@@ -8,7 +8,8 @@ external references. The art (assets/art/strip-<key>.jpg) is embedded as a data
 URI.
 
 Needs: python3 -m pip install fonttools brotli
-Run:   python3 scripts/make-dividers.py [--version v1]
+Run:   python3 scripts/make-dividers.py [--version v1] [--motion]
+--motion adds a slow light sweep (SMIL, hidden for prefers-reduced-motion).
 """
 import argparse
 import base64
@@ -33,7 +34,25 @@ SECTIONS = [
 INK = THEMES["dark"]  # the strip is dark art in both themes
 
 
-def strip(key, index, title, caption):
+# Light sweep: one pass of SWEEP_S seconds, then a pause, every LOOP_S seconds.
+SWEEP_S, LOOP_S, SWEEP_A = 1.8, 9, 0.12
+
+
+def sweep(uid, W, H):
+    """A soft diagonal band of light that crosses the strip once per loop.
+    SMIL moves it (the animation kind GitHub README SVGs use); CSS hides it
+    for prefers-reduced-motion."""
+    k = SWEEP_S / LOOP_S
+    return [f'<style>@media (prefers-reduced-motion: reduce) {{ .{uid}-sw {{ display: none }} }}</style>',
+            f'<linearGradient id="{uid}-band" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/>'
+            f'<stop offset="0.5" stop-color="#c7d2fe" stop-opacity="{SWEEP_A}"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>',
+            f'<g class="{uid}-sw"><g>'
+            f'<animateTransform attributeName="transform" type="translate" values="-420 0;{W + 220} 0;{W + 220} 0" '
+            f'keyTimes="0;{k:.3f};1" calcMode="spline" keySplines=".45 0 .25 1;0 0 1 1" dur="{LOOP_S}s" repeatCount="indefinite"/>'
+            f'<rect x="0" y="-40" width="260" height="{H + 80}" fill="url(#{uid}-band)" transform="skewX(-22)"/></g></g>']
+
+
+def strip(key, index, title, caption, motion=False):
     W, H, r = 1280, 200, 24
     uid = f"vm-div-{key}"
     jpg = os.path.join(ROOT, "assets", "art", f"strip-{key}.jpg")
@@ -56,6 +75,7 @@ def strip(key, index, title, caption):
              f'<rect width="{W}" height="{H}" fill="url(#{uid}-shade)"/>',
              f'<rect width="{W * 0.5:.0f}" height="{H}" fill="url(#{uid}-grid)"/>',
              f'<rect y="{H - 3}" width="{W}" height="3" fill="{INK["indigo"]}" fill-opacity="0.85"/>',
+             *(sweep(uid, W, H) if motion else []),
              "</g>",
              f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="{r - 0.5}" fill="none" stroke="{INK["card_line"]}"/>']
 
@@ -79,12 +99,13 @@ def strip(key, index, title, caption):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--version", default="v1", help="file name suffix. Use a new one for each change.")
+    ap.add_argument("--motion", action="store_true", help="add the light sweep")
     opt = ap.parse_args()
     for key, index, title, caption in SECTIONS:
         fn = os.path.join(ROOT, "assets", "dividers", f"{key}-{opt.version}.svg")
         os.makedirs(os.path.dirname(fn), exist_ok=True)
         with open(fn, "w") as fh:
-            fh.write(strip(key, index, title, caption))
+            fh.write(strip(key, index, title, caption, opt.motion))
         print("wrote", fn, os.path.getsize(fn), "bytes")
 
 

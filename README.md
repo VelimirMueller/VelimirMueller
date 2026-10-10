@@ -9,7 +9,7 @@
   <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-27272a?style=for-the-badge&labelColor=18181b"></a>
 </p>
 
-<img alt="00 Profile. Who builds this." src="assets/dividers/profile-v1.svg" width="100%">
+<img alt="00 Profile. Who builds this." src="assets/dividers/profile-v2.svg" width="100%">
 
 I ship products end to end: requirements, UX/UI, full-stack code, cloud deployment.
 Today I also build the AI tooling around that work. The models do more of the typing. I still own every decision.
@@ -25,7 +25,7 @@ Today I also build the AI tooling around that work. The models do more of the ty
 [ SHIPS  ]  vlm-code-context-mcp v2.8 on npm
 ```
 
-<img alt="01 Flagships. What I ship in public." src="assets/dividers/flagships-v1.svg" width="100%">
+<img alt="01 Flagships. What I ship in public." src="assets/dividers/flagships-v2.svg" width="100%">
 
 <a href="https://github.com/VelimirMueller/synthwerk">
   <picture>
@@ -66,7 +66,7 @@ Today I also build the AI tooling around that work. The models do more of the ty
 | [synthwerk-studio](https://github.com/VelimirMueller/synthwerk-studio) | Page builder and admin (Nuxt 4) | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
 | [synthwerk-widgets](https://github.com/VelimirMueller/synthwerk-widgets) | Embeddable chat and vision widgets | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
 
-<img alt="02 The rig. How the work gets done." src="assets/dividers/rig-v1.svg" width="100%">
+<img alt="02 The rig. How the work gets done." src="assets/dividers/rig-v2.svg" width="100%">
 
 Most of my tooling is private. This is how it works, at a high level.
 
@@ -85,7 +85,7 @@ Most of my tooling is private. This is how it works, at a high level.
 > Every tool in my rig proposes. None of them merges, deploys or closes a ticket on its own.
 > When a model and a rule disagree, the rule wins. When they agree, I still read the diff.
 
-<img alt="03 Work. GALVANY, energy, Berlin." src="assets/dividers/work-v1.svg" width="100%">
+<img alt="03 Work. GALVANY, energy, Berlin." src="assets/dividers/work-v2.svg" width="100%">
 
 **GALVANY** · Senior Software Engineer, Full-Stack / Product · Feb 2025 to now
 
@@ -95,7 +95,7 @@ Most of my tooling is private. This is how it works, at a high level.
 - Laravel, React, TypeScript, Terraform on AWS and Azure. Unit, E2E and visual regression tests.
 - The code is private. The case studies are on [velimir-mueller.de](https://velimir-mueller.de).
 
-<img alt="04 Also built. Side projects and experiments." src="assets/dividers/built-v1.svg" width="100%">
+<img alt="04 Also built. Side projects and experiments." src="assets/dividers/built-v2.svg" width="100%">
 
 | Project | What |
 |---|---|
