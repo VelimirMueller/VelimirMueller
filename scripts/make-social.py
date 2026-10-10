@@ -91,12 +91,12 @@ def preview(fs):
     return mp.svg_doc(W, H, f"{fs['word']} {fs['label'].lower()}.", parts)
 
 
-def rasterise(svg, out):
+def rasterise(svg, out, W=1280, H=640):
     with tempfile.TemporaryDirectory() as tmp:
         src, png = os.path.join(tmp, "p.svg"), os.path.join(tmp, "p.png")
         with open(src, "w") as fh:
             fh.write(svg)
-        subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--hide-scrollbars", "--window-size=1280,640",
+        subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--hide-scrollbars", f"--window-size={W},{H}",
                         f"--screenshot={png}", f"file://{src}"], check=True, capture_output=True)
         buf = io.BytesIO()
         Image.open(png).convert("RGB").save(buf, "JPEG", quality=88, optimize=True, progressive=True)

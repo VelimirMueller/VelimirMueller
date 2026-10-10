@@ -21,3 +21,8 @@ Negative prompt: text, letters, logo, watermark, people, clutter, oversaturated 
 - social-code-context (62): a constellation of glowing nodes and fine edges forming a dependency graph inside a dark void, one dense luminous cluster on the right, teal and violet, subtle grid, macro depth of field, no text
 - social-portfolio (65): a hyperspace tunnel of many dense thin light streaks rushing toward a bright vanishing point on the right side, teal streaks above, violet streaks below, glowing red-white core, motion blur, near-black edges, cinematic, premium, no text
 - Do not write "bus line" in a prompt: z-image-turbo draws a city bus.
+
+## LinkedIn banner (z-image-turbo, 1920x480, seed 73, resized to 1584x396, q82)
+- linkedin (73): ultra wide cinematic view of a fictional futuristic megastructure city made of dark monolithic towers with fine glowing teal and violet circuit lines, abstract architecture, volumetric haze, one thin bright horizon light line, composition weighted to the left, dark empty right side, minimal, premium, near-black, no people, no text
+- Negative: text, letters, logo, watermark, people, vehicles, real landmarks, hong kong, photo of real city, clutter, oversaturated.
+- Do not ask for a "skyline across water": z-image-turbo draws the real Hong Kong skyline.
