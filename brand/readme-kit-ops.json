@@ -1,0 +1,18 @@
+{
+  "group": "ops",
+  "version": "v3",
+  "dividers": [],
+  "panels": [
+    {"key": "ops", "type": "cards", "items": [
+      {"title": "DUAL-REVIEW", "text": "Two models review every change. Both approve, or nothing ships."},
+      {"title": "RELEASE-PILOT", "text": "Reads the merged PRs. Rules give GO or HOLD; a model writes the notes."},
+      {"title": "TIX + RIG", "text": "Tickets in one house format. One health check for the whole setup."},
+      {"title": "LOCAL MCP", "text": "Image generation, documents and memory search, on my machine."}
+    ]},
+    {"key": "opsstats", "type": "stats", "items": [
+      {"value": "10", "label": "PRIVATE OPS REPOS"},
+      {"value": "2", "label": "REQUIRED REVIEWERS"},
+      {"value": "1", "label": "HEALTH CHECK FOR ALL"}
+    ]}
+  ]
+}

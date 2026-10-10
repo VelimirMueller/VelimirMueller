@@ -91,6 +91,18 @@ Most of my tooling is private. This is how it works, at a high level.
   <img alt="The rig. Ticket by me, spec by a model and me, implement by models, two reviews that both must approve, ship by me. Reviews feed a memory of lessons." src="assets/panels/rig-v1-light.svg" width="100%">
 </picture>
 
+**Ops** is the group of private repos behind this rig:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/ops-v3-dark.svg">
+  <img alt="Ops tools. dual-review: two models review every change, both approve or nothing ships. release-pilot: reads the merged PRs, rules give GO or HOLD, a model writes the notes. tix and rig: tickets in one house format, one health check for the whole setup. Local MCP: image generation, documents and memory search on my machine." src="assets/readme/ops-v3-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/opsstats-v3-dark.svg">
+  <img alt="10 private ops repos. 2 required reviewers. 1 health check for all." src="assets/readme/opsstats-v3-light.svg" width="100%">
+</picture>
+
 - **Gated reviews.** Two independent models review every change. Both must approve before a PR opens.
 - **Deploy verdicts by rules.** A release check reads the merged PRs and gives GO or HOLD. Fixed rules decide the verdict. A model writes the release notes, never the verdict.
 - **Memory that outlives a session.** A local knowledge base keeps decisions, pitfalls and dependencies. Every new session starts from it.
