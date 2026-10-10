@@ -26,3 +26,6 @@ Negative prompt: text, letters, logo, watermark, people, clutter, oversaturated 
 - linkedin (73): ultra wide cinematic view of a fictional futuristic megastructure city made of dark monolithic towers with fine glowing teal and violet circuit lines, abstract architecture, volumetric haze, one thin bright horizon light line, composition weighted to the left, dark empty right side, minimal, premium, near-black, no people, no text
 - Negative: text, letters, logo, watermark, people, vehicles, real landmarks, hong kong, photo of real city, clutter, oversaturated.
 - Do not ask for a "skyline across water": z-image-turbo draws the real Hong Kong skyline.
+
+## Site link preview (z-image-turbo, 1536x800, seed 81, resized and cropped to 1200x630, q82)
+- og (81): same prompt as linkedin, mirrored: "composition weighted to the right, dark empty left side". Same negative prompt.
