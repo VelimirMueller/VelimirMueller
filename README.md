@@ -9,6 +9,19 @@
   <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-27272a?style=for-the-badge&labelColor=18181b"></a>
 </p>
 
+```text
+██  ██  ██████  ██      ██████  ██   ██  ██████  █████
+██  ██  ██      ██        ██    ███ ███    ██    ██  ██
+██  ██  █████   ██        ██    ███████    ██    █████
+ ████   ██      ██        ██    ██ █ ██    ██    ██ ██
+  ██    ██████  ██████  ██████  ██   ██  ██████  ██  ██  ██
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stats-v3-dark.svg">
+  <img alt="15 public repos. 93 MCP tools shipped. 990 tests in one server. 2 reviewers per change." src="assets/readme/stats-v3-light.svg" width="100%">
+</picture>
+
 <br>
 
 <img alt="00 Profile. Who builds this." src="assets/dividers/profile-v2.svg" width="100%">
@@ -21,11 +34,10 @@ Today I also build the AI tooling around that work. The models do more of the ty
   <img alt="What I do. Product engineering: requirements to release. AI tooling: agent pipelines with gated reviews, MCP servers, local models. Platform: Vercel, Supabase, AWS, Azure, Terraform, CI that blocks bad merges." src="assets/panels/capabilities-v1-light.svg" width="100%">
 </picture>
 
-```text
-[ NOW    ]  senior product engineer @ galvany, berlin
-[ BUILD  ]  synthwerk: modular ai services you run yourself
-[ SHIPS  ]  vlm-code-context-mcp v2.8 on npm
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/now-v3-dark.svg">
+  <img alt="whoami: senior product engineer at GALVANY, Berlin. Build: synthwerk, modular AI services you run yourself. Ships: code-context-mcp v2.9 on npm. Lab: a card scanner, a debate agent, an arcade shooter." src="assets/readme/now-v3-light.svg" width="100%">
+</picture>
 
 <br>
 
@@ -38,7 +50,7 @@ Today I also build the AI tooling around that work. The models do more of the ty
   </picture>
 </a>
 
-<a href="https://github.com/VelimirMueller/vlm-code-context-mcp">
+<a href="https://github.com/VelimirMueller/code-context-mcp">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/code-context-v2-dark.svg">
     <img alt="CODE CONTEXT. MCP server for AI coding agents. Released on npm." src="assets/cards/code-context-v2-light.svg" width="100%">
@@ -61,16 +73,12 @@ Today I also build the AI tooling around that work. The models do more of the ty
   <img alt="Synthwerk map. Studio, widgets and SDK on one API contract over identity, LLM and vision. Blueprint is shared by all repos." src="assets/panels/synthwerk-map-v1-light.svg" width="100%">
 </picture>
 
-| Repo | Role | Status |
-|---|---|---|
-| [synthwerk](https://github.com/VelimirMueller/synthwerk) | The map. Start here. | ![](https://img.shields.io/badge/-in_development-10b981) |
-| [synthwerk-vision](https://github.com/VelimirMueller/synthwerk-vision) | Open-vocabulary image labels (FastAPI, ONNX SigLIP 2) | ![](https://img.shields.io/badge/-working-10b981) |
-| [synthwerk-sdk](https://github.com/VelimirMueller/synthwerk-sdk) | Design tokens. Client and bindings next. | ![](https://img.shields.io/badge/-working-10b981) |
-| [synthwerk-blueprint](https://github.com/VelimirMueller/synthwerk-blueprint) | Shared CI, lint configs, templates | ![](https://img.shields.io/badge/-working-10b981) |
-| [synthwerk-llm](https://github.com/VelimirMueller/synthwerk-llm) | LLM gateway (Go) | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
-| [synthwerk-identity](https://github.com/VelimirMueller/synthwerk-identity) | Orgs, roles, entitlements on Zitadel (Go) | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
-| [synthwerk-studio](https://github.com/VelimirMueller/synthwerk-studio) | Page builder and admin (Nuxt 4) | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
-| [synthwerk-widgets](https://github.com/VelimirMueller/synthwerk-widgets) | Embeddable chat and vision widgets | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/synthwerk-v3-dark.svg">
+  <img alt="Synthwerk status. Working: vision, sdk, blueprint. In development: synthwerk, the map. Rewrite planned: llm, identity, studio, widgets." src="assets/readme/synthwerk-v3-light.svg" width="100%">
+</picture>
+
+Repos: [synthwerk](https://github.com/VelimirMueller/synthwerk) · [vision](https://github.com/VelimirMueller/synthwerk-vision) · [sdk](https://github.com/VelimirMueller/synthwerk-sdk) · [blueprint](https://github.com/VelimirMueller/synthwerk-blueprint) · [llm](https://github.com/VelimirMueller/synthwerk-llm) · [identity](https://github.com/VelimirMueller/synthwerk-identity) · [studio](https://github.com/VelimirMueller/synthwerk-studio) · [widgets](https://github.com/VelimirMueller/synthwerk-widgets)
 
 <br>
 
@@ -111,25 +119,19 @@ Most of my tooling is private. This is how it works, at a high level.
 
 <img alt="04 Also built. Side projects and experiments." src="assets/dividers/built-v2.svg" width="100%">
 
-| Project | What |
-|---|---|
-| [claude_development_skills](https://github.com/VelimirMueller/claude_development_skills) | Opinionated, audit-aware Claude Code skills for frontend projects |
-| [cyberpunk_arcade_shooter](https://github.com/VelimirMueller/cyberpunk_arcade_shooter) | Arcade shooter in Rust and Bevy. Runs as WASM on my site. |
-| [langchain_debater](https://github.com/VelimirMueller/langchain_debater) | Multi-role debate agent on LangGraph, traced in LangSmith and Langfuse |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/lab-v3-dark.svg">
+  <img alt="Lab projects. lab-claude-skills: audit-aware Claude Code skills for frontend projects. lab-arcade-shooter: Rust and Bevy, runs as WASM on my site. lab-debater: agents argue on LangGraph, you read the trace. lab-mtg-scanner: private, scans Magic cards on the phone, offline." src="assets/readme/lab-v3-light.svg" width="100%">
+</picture>
+
+Repos: [lab-claude-skills](https://github.com/VelimirMueller/lab-claude-skills) · [lab-arcade-shooter](https://github.com/VelimirMueller/lab-arcade-shooter) · [lab-debater](https://github.com/VelimirMueller/lab-debater)
 
 <br>
 
-```jsonc
-// stack.json
-{
-  "frontend":  ["Next.js", "React", "Vue 3", "Nuxt", "TypeScript", "Tailwind CSS"],
-  "backend":   ["Node.js", "Go", "FastAPI", "Laravel", "Quarkus"],
-  "languages": ["TypeScript", "Python", "Go", "PHP", "Kotlin", "Rust"],
-  "platform":  ["Vercel", "Supabase", "AWS", "Azure", "Terraform", "Docker"],
-  "testing":   ["Vitest", "Jest", "Playwright", "Pytest", "visual regression"],
-  "ai":        ["Claude Code", "MCP", "LangGraph", "ONNX", "local models on MLX"]
-}
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stack-v3-dark.svg">
+  <img alt="Stack. Frontend: Next.js, React, Vue 3, Nuxt, TypeScript, Tailwind. Backend: Node.js, Go, FastAPI, Laravel, Quarkus. Platform: Vercel, Supabase, AWS, Azure, Terraform, Docker. Testing: Vitest, Jest, Playwright, Pytest, visual regression. AI: Claude Code, MCP, LangGraph, ONNX, local models on MLX." src="assets/readme/stack-v3-light.svg" width="100%">
+</picture>
 
 <br>
 

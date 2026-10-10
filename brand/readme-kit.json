@@ -1,0 +1,41 @@
+{
+  "group": "flagship",
+  "version": "v3",
+  "dividers": [],
+  "panels": [
+    {"key": "stats", "type": "stats", "items": [
+      {"value": "15", "label": "PUBLIC REPOS"},
+      {"value": "93", "label": "MCP TOOLS SHIPPED"},
+      {"value": "990", "label": "TESTS, ONE SERVER"},
+      {"value": "2", "label": "REVIEWERS PER CHANGE"}
+    ]},
+    {"key": "now", "type": "terminal", "title": "NOW", "lines": [
+      "$ whoami",
+      "senior product engineer @ galvany, berlin",
+      "$ cat now.txt",
+      "build   synthwerk: modular ai services you run yourself",
+      "ships   code-context-mcp v2.9 on npm",
+      "lab     a card scanner, a debate agent, an arcade shooter",
+      "# coffee level: sufficient"
+    ]},
+    {"key": "synthwerk", "type": "status", "rows": [
+      {"label": "synthwerk", "value": "the map, start here", "state": "wip"},
+      {"label": "synthwerk-vision", "value": "open-vocabulary image labels", "state": "ok"},
+      {"label": "synthwerk-sdk", "value": "design tokens, client next", "state": "ok"},
+      {"label": "synthwerk-blueprint", "value": "shared ci, lint, templates", "state": "ok"},
+      {"label": "synthwerk-llm", "value": "llm gateway (go)", "state": "planned"},
+      {"label": "synthwerk-identity", "value": "orgs, roles, entitlements", "state": "planned"},
+      {"label": "synthwerk-studio", "value": "page builder and admin", "state": "planned"},
+      {"label": "synthwerk-widgets", "value": "chat and vision widgets", "state": "planned"}
+    ]},
+    {"key": "stack", "type": "terminal", "title": "STACK", "lines": [
+      "$ cat stack.json | jq -r 'keys[] as $k | \"\\($k): \\(.[$k])\"'",
+      "frontend   next.js, react, vue 3, nuxt, typescript, tailwind",
+      "backend    node.js, go, fastapi, laravel, quarkus",
+      "platform   vercel, supabase, aws, azure, terraform, docker",
+      "testing    vitest, jest, playwright, pytest, visual regression",
+      "ai         claude code, mcp, langgraph, onnx, local models on mlx",
+      "# kotlin joined in october. it is going fine. mostly."
+    ]}
+  ]
+}
