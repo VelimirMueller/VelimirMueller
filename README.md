@@ -9,6 +9,8 @@
   <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-27272a?style=for-the-badge&labelColor=18181b"></a>
 </p>
 
+<br>
+
 <img alt="00 Profile. Who builds this." src="assets/dividers/profile-v2.svg" width="100%">
 
 I ship products end to end: requirements, UX/UI, full-stack code, cloud deployment.
@@ -24,6 +26,8 @@ Today I also build the AI tooling around that work. The models do more of the ty
 [ BUILD  ]  synthwerk: modular ai services you run yourself
 [ SHIPS  ]  vlm-code-context-mcp v2.8 on npm
 ```
+
+<br>
 
 <img alt="01 Flagships. What I ship in public." src="assets/dividers/flagships-v2.svg" width="100%">
 
@@ -48,6 +52,8 @@ Today I also build the AI tooling around that work. The models do more of the ty
   </picture>
 </a>
 
+<br>
+
 **Synthwerk** is one map of small services, one repo per role:
 
 <picture>
@@ -66,6 +72,8 @@ Today I also build the AI tooling around that work. The models do more of the ty
 | [synthwerk-studio](https://github.com/VelimirMueller/synthwerk-studio) | Page builder and admin (Nuxt 4) | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
 | [synthwerk-widgets](https://github.com/VelimirMueller/synthwerk-widgets) | Embeddable chat and vision widgets | ![](https://img.shields.io/badge/-rewrite_planned-6366f1) |
 
+<br>
+
 <img alt="02 The rig. How the work gets done." src="assets/dividers/rig-v2.svg" width="100%">
 
 Most of my tooling is private. This is how it works, at a high level.
@@ -81,9 +89,13 @@ Most of my tooling is private. This is how it works, at a high level.
 - **Local first.** Image generation, document creation and code search run on my machine.
 - **One versioned setup.** The whole rig is pinned, logged and health-checked with one command.
 
+<br>
+
 > I use AI to go faster, not to stop thinking.
 > Every tool in my rig proposes. None of them merges, deploys or closes a ticket on its own.
 > When a model and a rule disagree, the rule wins. When they agree, I still read the diff.
+
+<br>
 
 <img alt="03 Work. GALVANY, energy, Berlin." src="assets/dividers/work-v2.svg" width="100%">
 
@@ -95,6 +107,8 @@ Most of my tooling is private. This is how it works, at a high level.
 - Laravel, React, TypeScript, Terraform on AWS and Azure. Unit, E2E and visual regression tests.
 - The code is private. The case studies are on [velimir-mueller.de](https://velimir-mueller.de).
 
+<br>
+
 <img alt="04 Also built. Side projects and experiments." src="assets/dividers/built-v2.svg" width="100%">
 
 | Project | What |
@@ -102,6 +116,8 @@ Most of my tooling is private. This is how it works, at a high level.
 | [claude_development_skills](https://github.com/VelimirMueller/claude_development_skills) | Opinionated, audit-aware Claude Code skills for frontend projects |
 | [cyberpunk_arcade_shooter](https://github.com/VelimirMueller/cyberpunk_arcade_shooter) | Arcade shooter in Rust and Bevy. Runs as WASM on my site. |
 | [langchain_debater](https://github.com/VelimirMueller/langchain_debater) | Multi-role debate agent on LangGraph, traced in LangSmith and Langfuse |
+
+<br>
 
 ```jsonc
 // stack.json
@@ -114,6 +130,8 @@ Most of my tooling is private. This is how it works, at a high level.
   "ai":        ["Claude Code", "MCP", "LangGraph", "ONNX", "local models on MLX"]
 }
 ```
+
+<br>
 
 ```text
 -- EOF ------------------------------------------- THANKS FOR READING --
