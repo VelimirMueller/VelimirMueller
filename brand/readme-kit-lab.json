@@ -1,0 +1,13 @@
+{
+  "group": "lab",
+  "version": "v3",
+  "dividers": [],
+  "panels": [
+    {"key": "lab", "type": "cards", "items": [
+      {"title": "CLAUDE-SKILLS", "text": "Audit-aware Claude Code skills for frontend projects."},
+      {"title": "ARCADE-SHOOTER", "text": "Rust and Bevy. Runs as WASM on my site. Dodge."},
+      {"title": "DEBATER", "text": "Agents argue on LangGraph. You read the trace."},
+      {"title": "MTG-SCANNER", "text": "Private. Scans Magic cards on the phone, offline."}
+    ]}
+  ]
+}
