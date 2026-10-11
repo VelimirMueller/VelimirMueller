@@ -1,72 +1,94 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/hero-v2-dark.svg">
-  <img alt="VELIMIR MÜLLER. Senior Product Engineer. Full-Stack, infrastructure, agent tooling. Models propose, rules gate, I decide." src="assets/banner/hero-v2-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/hero-v4-dark.svg">
+  <img alt="VELIMIR MÜLLER. Senior product engineer, Berlin. Product, platform and AI tooling. End to end." src="assets/banner/hero-v4-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://velimir-mueller.de"><img alt="Website" src="https://img.shields.io/badge/velimir--mueller.de-6366f1?style=for-the-badge&labelColor=18181b"></a>
-  <a href="https://www.linkedin.com/in/velimir-m%C3%BCller-07b460175"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-27272a?style=for-the-badge&labelColor=18181b"></a>
-  <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-27272a?style=for-the-badge&labelColor=18181b"></a>
+  <a href="https://velimir-mueller.de"><img alt="velimir-mueller.de" src="https://img.shields.io/badge/web-velimir--mueller.de-6366f1?style=flat-square&labelColor=0a0a0b"></a>
+  <a href="https://www.linkedin.com/in/velimir-m%C3%BCller-07b460175"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-profile-a1a1aa?style=flat-square&labelColor=0a0a0b"></a>
+  <a href="mailto:velimir.mueller@googlemail.com"><img alt="Email" src="https://img.shields.io/badge/email-contact-a1a1aa?style=flat-square&labelColor=0a0a0b"></a>
+  <img alt="Based in Berlin" src="https://img.shields.io/badge/based_in-Berlin-a1a1aa?style=flat-square&labelColor=0a0a0b">
 </p>
 
-```text
-██  ██  ██████  ██      ██████  ██   ██  ██████  █████
-██  ██  ██      ██        ██    ███ ███    ██    ██  ██
-██  ██  █████   ██        ██    ███████    ██    █████
- ████   ██      ██        ██    ██ █ ██    ██    ██ ██
-  ██    ██████  ██████  ██████  ██   ██  ██████  ██  ██  ██
-```
+> Models propose. Rules gate. I decide.
+
+Senior product engineer in Berlin. I own products from requirements to release: UX, full-stack code, cloud platform and the AI tooling that speeds up delivery.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stats-v3-dark.svg">
-  <img alt="15 public repos. 93 MCP tools shipped. 990 tests in one server. 2 reviewers per change." src="assets/readme/stats-v3-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stats-v4-dark.svg">
+  <img alt="18 PUBLIC REPOSITORIES. 93 MCP TOOLS SHIPPED. 990 TESTS IN ONE SERVER. 2 REVIEWS PER CHANGE" src="assets/readme/stats-v4-light.svg" width="100%">
+</picture>
+
+<p align="center"><sub><a href="#-01-profile">Profile</a> · <a href="#-02-experience">Experience</a> · <a href="#-03-flagships">Flagships</a> · <a href="#-04-delivery-system">Delivery system</a> · <a href="#-05-capabilities">Capabilities</a></sub></p>
+
+<br>
+
+## // 01 PROFILE
+
+<img alt="01 PROFILE. ROLE, SCOPE AND FOCUS" src="assets/readme/divider-profile-v4.svg" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/practice-v4-dark.svg">
+  <img alt="Product engineering: Requirements, UX and UI, full-stack code, tests and rollout. One owner from ticket to release. AI tooling: Agent pipelines with gated reviews, MCP servers and local models. Models propose, rules decide. Platform: Vercel, Supabase, AWS and Azure on Terraform. CI that blocks a bad merge before review" src="assets/readme/practice-v4-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/focus-v4-dark.svg">
+  <img alt="GALVANY, Berlin: Senior product engineer · since Feb 2025. synthwerk: Modular AI services · milestone M0. code-context-mcp: Released · npm v2.11. velimir-mueller.de: Live · case studies and demos" src="assets/readme/focus-v4-light.svg" width="100%">
 </picture>
 
 <br>
 
-<img alt="00 Profile. Who builds this." src="assets/dividers/profile-v2.svg" width="100%">
+## // 02 EXPERIENCE
 
-I ship products end to end: requirements, UX/UI, full-stack code, cloud deployment.
-Today I also build the AI tooling around that work. The models do more of the typing. I still own every decision.
+<img alt="02 EXPERIENCE. END TO END, ACROSS ROLES" src="assets/readme/divider-impact-v4.svg" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/panels/capabilities-v1-dark.svg">
-  <img alt="What I do. Product engineering: requirements to release. AI tooling: agent pipelines with gated reviews, MCP servers, local models. Platform: Vercel, Supabase, AWS, Azure, Terraform, CI that blocks bad merges." src="assets/panels/capabilities-v1-light.svg" width="100%">
-</picture>
+Years of product work, from frontend specialist to full-stack product engineer. Today I plan, build and run whole applications, from the first requirement to production.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/now-v3-dark.svg">
-  <img alt="whoami: senior product engineer at GALVANY, Berlin. Build: synthwerk, modular AI services you run yourself. Ships: code-context-mcp v2.9 on npm. Lab: a card scanner, a debate agent, an arcade shooter." src="assets/readme/now-v3-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/ownership-v4-dark.svg">
+  <img alt="Plan: Requirements, architecture and UX for whole applications. A business problem becomes a scoped plan. Build: Features across frontend and backend, covered by unit, E2E and visual regression tests. Run: Infrastructure on AWS and Azure with Terraform. CI/CD, monitoring and releases. Improve: Rollout with the team, then measure in production and iterate" src="assets/readme/ownership-v4-light.svg" width="100%">
 </picture>
+
+**GALVANY** · Senior Software Engineer, Full-Stack / Product · Berlin · Feb 2025 to now
+
+- Own product engineering end to end at a high-growth energy company.
+- Planned and built the lead management platform, from data model to UI. Lead assignment is 3 to 4 times faster.
+- Built the scoring engine that matches leads to sellers.
+- Run the infrastructure on AWS and Azure, provisioned with Terraform.
+- Ship each release with unit, E2E and visual regression tests.
+- The code is private. Case studies are on [velimir-mueller.de](https://velimir-mueller.de).
 
 <br>
 
-<img alt="01 Flagships. What I ship in public." src="assets/dividers/flagships-v2.svg" width="100%">
+## // 03 FLAGSHIPS
+
+<img alt="03 FLAGSHIPS. PRODUCTS I SHIP IN PUBLIC" src="assets/readme/divider-flagships-v4.svg" width="100%">
 
 <a href="https://github.com/VelimirMueller/synthwerk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/synthwerk-v2-dark.svg">
-    <img alt="SYNTHWERK. Modular AI services. In development, milestone M0." src="assets/cards/synthwerk-v2-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/synthwerk-v4-dark.svg">
+    <img alt="SYNTHWERK. Modular AI services. In development, milestone M0." src="assets/cards/synthwerk-v4-light.svg" width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/VelimirMueller/code-context-mcp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/code-context-v2-dark.svg">
-    <img alt="CODE CONTEXT. MCP server for AI coding agents. Released on npm." src="assets/cards/code-context-v2-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/code-context-v4-dark.svg">
+    <img alt="CODE CONTEXT. MCP server for AI coding agents. Released on npm." src="assets/cards/code-context-v4-light.svg" width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/VelimirMueller/portfolio-website">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/portfolio-v2-dark.svg">
-    <img alt="PORTFOLIO. velimir-mueller.de. Live." src="assets/cards/portfolio-v2-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/portfolio-v4-dark.svg">
+    <img alt="PORTFOLIO. velimir-mueller.de. Live." src="assets/cards/portfolio-v4-light.svg" width="100%">
   </picture>
 </a>
 
 <br>
 
-**Synthwerk** is one map of small services, one repo per role:
+**Synthwerk** is a set of small services, one repository per role:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/panels/synthwerk-map-v1-dark.svg">
@@ -74,82 +96,59 @@ Today I also build the AI tooling around that work. The models do more of the ty
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/synthwerk-v3-dark.svg">
-  <img alt="Synthwerk status. Working: vision, sdk, blueprint. In development: synthwerk, the map. Rewrite planned: llm, identity, studio, widgets." src="assets/readme/synthwerk-v3-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/synthwerk-v4-dark.svg">
+  <img alt="synthwerk: the map, start here. synthwerk-vision: open-vocabulary image labels. synthwerk-sdk: design tokens, client next. synthwerk-blueprint: shared ci, lint, templates. synthwerk-llm: llm gateway (go). synthwerk-identity: orgs, roles, entitlements. synthwerk-studio: page builder and admin. synthwerk-widgets: chat and vision widgets" src="assets/readme/synthwerk-v4-light.svg" width="100%">
 </picture>
 
-Repos: [synthwerk](https://github.com/VelimirMueller/synthwerk) · [vision](https://github.com/VelimirMueller/synthwerk-vision) · [sdk](https://github.com/VelimirMueller/synthwerk-sdk) · [blueprint](https://github.com/VelimirMueller/synthwerk-blueprint) · [llm](https://github.com/VelimirMueller/synthwerk-llm) · [identity](https://github.com/VelimirMueller/synthwerk-identity) · [studio](https://github.com/VelimirMueller/synthwerk-studio) · [widgets](https://github.com/VelimirMueller/synthwerk-widgets)
+Repositories: [synthwerk](https://github.com/VelimirMueller/synthwerk) · [vision](https://github.com/VelimirMueller/synthwerk-vision) · [sdk](https://github.com/VelimirMueller/synthwerk-sdk) · [blueprint](https://github.com/VelimirMueller/synthwerk-blueprint) · [llm](https://github.com/VelimirMueller/synthwerk-llm) · [identity](https://github.com/VelimirMueller/synthwerk-identity) · [studio](https://github.com/VelimirMueller/synthwerk-studio) · [widgets](https://github.com/VelimirMueller/synthwerk-widgets)
 
 <br>
 
-<img alt="02 The rig. How the work gets done." src="assets/dividers/rig-v2.svg" width="100%">
+## // 04 DELIVERY SYSTEM
 
-Most of my tooling is private. This is how it works, at a high level.
+<img alt="04 DELIVERY SYSTEM. HOW CHANGES REACH PRODUCTION" src="assets/readme/divider-system-v4.svg" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/panels/rig-v1-dark.svg">
-  <img alt="The rig. Ticket by me, spec by a model and me, implement by models, two reviews that both must approve, ship by me. Reviews feed a memory of lessons." src="assets/panels/rig-v1-light.svg" width="100%">
-</picture>
-
-**Ops** is the group of private repos behind this rig:
+Every change goes through the same gated pipeline. Most of the tooling is private; this is the process at a high level.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/ops-v3-dark.svg">
-  <img alt="Ops tools. dual-review: two models review every change, both approve or nothing ships. release-pilot: reads the merged PRs, rules give GO or HOLD, a model writes the notes. tix and rig: tickets in one house format, one health check for the whole setup. Local MCP: image generation, documents and memory search on my machine." src="assets/readme/ops-v3-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/pipeline-v4-dark.svg">
+  <img alt="Ticket -> Spec -> Build -> Review -> Ship. No step merges, deploys or closes a ticket on its own. Every review finding is kept in a shared memory." src="assets/readme/pipeline-v4-light.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/opsstats-v3-dark.svg">
-  <img alt="10 private ops repos. 2 required reviewers. 1 health check for all." src="assets/readme/opsstats-v3-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/controls-v4-dark.svg">
+  <img alt="Gated reviews: Two models review every change. A missing vote blocks the PR. Rule-based releases: Fixed rules give GO or HOLD. A model writes notes, never the verdict. Persistent memory: Decisions, pitfalls and dependencies outlive every session. One versioned setup: The rig is pinned, logged and health-checked with one command" src="assets/readme/controls-v4-light.svg" width="100%">
 </picture>
 
-- **Gated reviews.** Two independent models review every change. Both must approve before a PR opens.
-- **Deploy verdicts by rules.** A release check reads the merged PRs and gives GO or HOLD. Fixed rules decide the verdict. A model writes the release notes, never the verdict.
-- **Memory that outlives a session.** A local knowledge base keeps decisions, pitfalls and dependencies. Every new session starts from it.
+- **Accountability.** I write the ticket, approve the spec and own the merge.
+- **Independent review.** Two models review each change. Both must approve before a PR opens.
+- **Release decisions by rule.** A release check reads the merged PRs. Fixed rules give GO or HOLD.
 - **Local first.** Image generation, document creation and code search run on my machine.
-- **One versioned setup.** The whole rig is pinned, logged and health-checked with one command.
-
-<br>
-
-> I use AI to go faster, not to stop thinking.
-> Every tool in my rig proposes. None of them merges, deploys or closes a ticket on its own.
-> When a model and a rule disagree, the rule wins. When they agree, I still read the diff.
-
-<br>
-
-<img alt="03 Work. GALVANY, energy, Berlin." src="assets/dividers/work-v2.svg" width="100%">
-
-**GALVANY** · Senior Software Engineer, Full-Stack / Product · Feb 2025 to now
-
-- I own product engineering end to end at a hyper-growth energy startup.
-- I built a lead management platform. Assignment time dropped by 3 to 4 times.
-- I built a scoring engine for lead-seller matching. Predicted conversion rose from about 6 % to 11 %.
-- Laravel, React, TypeScript, Terraform on AWS and Azure. Unit, E2E and visual regression tests.
-- The code is private. The case studies are on [velimir-mueller.de](https://velimir-mueller.de).
-
-<br>
-
-<img alt="04 Also built. Side projects and experiments." src="assets/dividers/built-v2.svg" width="100%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/lab-v3-dark.svg">
-  <img alt="Lab projects. lab-claude-skills: audit-aware Claude Code skills for frontend projects. lab-arcade-shooter: Rust and Bevy, runs as WASM on my site. lab-debater: agents argue on LangGraph, you read the trace. lab-mtg-scanner: private, scans Magic cards on the phone, offline." src="assets/readme/lab-v3-light.svg" width="100%">
-</picture>
-
-Repos: [lab-claude-skills](https://github.com/VelimirMueller/lab-claude-skills) · [lab-arcade-shooter](https://github.com/VelimirMueller/lab-arcade-shooter) · [lab-debater](https://github.com/VelimirMueller/lab-debater)
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stack-v3-dark.svg">
-  <img alt="Stack. Frontend: Next.js, React, Vue 3, Nuxt, TypeScript, Tailwind. Backend: Node.js, Go, FastAPI, Laravel, Quarkus. Platform: Vercel, Supabase, AWS, Azure, Terraform, Docker. Testing: Vitest, Jest, Playwright, Pytest, visual regression. AI: Claude Code, MCP, LangGraph, ONNX, local models on MLX." src="assets/readme/stack-v3-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/principle-v4-dark.svg">
+  <img alt="Models propose. Rules gate. I decide." src="assets/readme/principle-v4-light.svg" width="100%">
 </picture>
 
 <br>
 
-```text
--- EOF ------------------------------------------- THANKS FOR READING --
-```
+## // 05 CAPABILITIES
+
+<img alt="05 CAPABILITIES. STACK, PRACTICE AND R&D" src="assets/readme/divider-stack-v4.svg" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stack-v4-dark.svg">
+  <img alt="Frontend: Next.js · React · Vue 3 · Nuxt · TypeScript. Backend: Node.js · Go · FastAPI · Laravel · Quarkus. Platform: Vercel · Supabase · AWS · Azure · Terraform. Quality: Vitest · Playwright · Pytest · visual regression. AI: Claude Code · MCP · LangGraph · ONNX · MLX" src="assets/readme/stack-v4-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/rnd-v4-dark.svg">
+  <img alt="Arcade shooter: Rust and Bevy, compiled to WASM, runs on my site. Debater: Agents argue on LangGraph with a readable trace. Card scanner: Private. Recognises trading cards on the phone, offline" src="assets/readme/rnd-v4-light.svg" width="100%">
+</picture>
+
+Repositories: [claude-skills](https://github.com/VelimirMueller/claude-skills) · [lab-arcade-shooter](https://github.com/VelimirMueller/lab-arcade-shooter) · [lab-debater](https://github.com/VelimirMueller/lab-debater)
+
+<br>
 
 <p align="center">
   <picture>
@@ -160,5 +159,5 @@ Repos: [lab-claude-skills](https://github.com/VelimirMueller/lab-claude-skills) 
 
 <p align="center">
   <sub><b>Velimir Müller</b> · Senior Product Engineer · Berlin<br>
-  <a href="https://velimir-mueller.de">velimir-mueller.de</a> · building with AI, not by AI</sub>
+  <a href="https://velimir-mueller.de">velimir-mueller.de</a> · <a href="https://www.linkedin.com/in/velimir-m%C3%BCller-07b460175">LinkedIn</a> · <a href="mailto:velimir.mueller@googlemail.com">Email</a></sub>
 </p>

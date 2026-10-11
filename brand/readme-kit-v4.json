@@ -1,0 +1,291 @@
+{
+  "group": "flagship",
+  "version": "v4",
+  "dividers": [
+    {
+      "key": "profile",
+      "index": "01",
+      "title": "PROFILE",
+      "caption": "ROLE, SCOPE AND FOCUS",
+      "art": "strip-flagship-1"
+    },
+    {
+      "key": "impact",
+      "index": "02",
+      "title": "EXPERIENCE",
+      "caption": "END TO END, ACROSS ROLES",
+      "art": "strip-flagship-2"
+    },
+    {
+      "key": "flagships",
+      "index": "03",
+      "title": "FLAGSHIPS",
+      "caption": "PRODUCTS I SHIP IN PUBLIC",
+      "art": "strip-flagship-3"
+    },
+    {
+      "key": "system",
+      "index": "04",
+      "title": "DELIVERY SYSTEM",
+      "caption": "HOW CHANGES REACH PRODUCTION",
+      "art": "strip-flagship-4"
+    },
+    {
+      "key": "stack",
+      "index": "05",
+      "title": "CAPABILITIES",
+      "caption": "STACK, PRACTICE AND R&D",
+      "art": "strip-flagship-5"
+    }
+  ],
+  "panels": [
+    {
+      "key": "stats",
+      "type": "stats",
+      "title": "AT A GLANCE",
+      "items": [
+        {
+          "value": "18",
+          "label": "PUBLIC REPOSITORIES"
+        },
+        {
+          "value": "93",
+          "label": "MCP TOOLS SHIPPED"
+        },
+        {
+          "value": "990",
+          "label": "TESTS IN ONE SERVER"
+        },
+        {
+          "value": "2",
+          "label": "REVIEWS PER CHANGE"
+        }
+      ]
+    },
+    {
+      "key": "practice",
+      "type": "cards",
+      "title": "PRACTICE AREAS",
+      "items": [
+        {
+          "title": "Product engineering",
+          "text": "Requirements, UX and UI, full-stack code, tests and rollout. One owner from ticket to release."
+        },
+        {
+          "title": "AI tooling",
+          "text": "Agent pipelines with gated reviews, MCP servers and local models. Models propose, rules decide."
+        },
+        {
+          "title": "Platform",
+          "text": "Vercel, Supabase, AWS and Azure on Terraform. CI that blocks a bad merge before review."
+        }
+      ]
+    },
+    {
+      "key": "focus",
+      "type": "status",
+      "title": "CURRENT FOCUS",
+      "rows": [
+        {
+          "label": "GALVANY, Berlin",
+          "value": "Senior product engineer · since Feb 2025",
+          "state": "ok"
+        },
+        {
+          "label": "synthwerk",
+          "value": "Modular AI services · milestone M0",
+          "state": "wip"
+        },
+        {
+          "label": "code-context-mcp",
+          "value": "Released · npm v2.11",
+          "state": "ok"
+        },
+        {
+          "label": "velimir-mueller.de",
+          "value": "Live · case studies and demos",
+          "state": "ok"
+        }
+      ]
+    },
+    {
+      "key": "ownership",
+      "type": "cards",
+      "title": "WHAT I OWN",
+      "items": [
+        {
+          "title": "Plan",
+          "text": "Requirements, architecture and UX for whole applications. A business problem becomes a scoped plan."
+        },
+        {
+          "title": "Build",
+          "text": "Features across frontend and backend, covered by unit, E2E and visual regression tests."
+        },
+        {
+          "title": "Run",
+          "text": "Infrastructure on AWS and Azure with Terraform. CI/CD, monitoring and releases."
+        },
+        {
+          "title": "Improve",
+          "text": "Rollout with the team, then measure in production and iterate."
+        }
+      ]
+    },
+    {
+      "key": "synthwerk",
+      "type": "status",
+      "title": "SYNTHWERK · REPOSITORY STATUS",
+      "rows": [
+        {
+          "label": "synthwerk",
+          "value": "the map, start here",
+          "state": "wip"
+        },
+        {
+          "label": "synthwerk-vision",
+          "value": "open-vocabulary image labels",
+          "state": "ok"
+        },
+        {
+          "label": "synthwerk-sdk",
+          "value": "design tokens, client next",
+          "state": "ok"
+        },
+        {
+          "label": "synthwerk-blueprint",
+          "value": "shared ci, lint, templates",
+          "state": "ok"
+        },
+        {
+          "label": "synthwerk-llm",
+          "value": "llm gateway (go)",
+          "state": "planned"
+        },
+        {
+          "label": "synthwerk-identity",
+          "value": "orgs, roles, entitlements",
+          "state": "planned"
+        },
+        {
+          "label": "synthwerk-studio",
+          "value": "page builder and admin",
+          "state": "planned"
+        },
+        {
+          "label": "synthwerk-widgets",
+          "value": "chat and vision widgets",
+          "state": "planned"
+        }
+      ]
+    },
+    {
+      "key": "pipeline",
+      "type": "flow",
+      "title": "DELIVERY PIPELINE",
+      "nodes": [
+        {
+          "title": "Ticket",
+          "sub": "Scope and acceptance. Owner: me."
+        },
+        {
+          "title": "Spec",
+          "sub": "A model drafts, I approve."
+        },
+        {
+          "title": "Build",
+          "sub": "Models implement in a worktree."
+        },
+        {
+          "title": "Review",
+          "sub": "Two independent models. Both approve.",
+          "hot": true
+        },
+        {
+          "title": "Ship",
+          "sub": "PR, release check, merge. Owner: me."
+        }
+      ],
+      "caption": "No step merges, deploys or closes a ticket on its own. Every review finding is kept in a shared memory."
+    },
+    {
+      "key": "controls",
+      "type": "cards",
+      "title": "CONTROLS",
+      "items": [
+        {
+          "title": "Gated reviews",
+          "text": "Two models review every change. A missing vote blocks the PR."
+        },
+        {
+          "title": "Rule-based releases",
+          "text": "Fixed rules give GO or HOLD. A model writes notes, never the verdict."
+        },
+        {
+          "title": "Persistent memory",
+          "text": "Decisions, pitfalls and dependencies outlive every session."
+        },
+        {
+          "title": "One versioned setup",
+          "text": "The rig is pinned, logged and health-checked with one command."
+        }
+      ]
+    },
+    {
+      "key": "principle",
+      "type": "quote",
+      "text": "Models propose. Rules gate. I decide.",
+      "by": "Operating principle"
+    },
+    {
+      "key": "stack",
+      "type": "status",
+      "title": "TECHNOLOGY",
+      "rows": [
+        {
+          "label": "Frontend",
+          "value": "Next.js · React · Vue 3 · Nuxt · TypeScript",
+          "state": "ok"
+        },
+        {
+          "label": "Backend",
+          "value": "Node.js · Go · FastAPI · Laravel · Quarkus",
+          "state": "ok"
+        },
+        {
+          "label": "Platform",
+          "value": "Vercel · Supabase · AWS · Azure · Terraform",
+          "state": "ok"
+        },
+        {
+          "label": "Quality",
+          "value": "Vitest · Playwright · Pytest · visual regression",
+          "state": "ok"
+        },
+        {
+          "label": "AI",
+          "value": "Claude Code · MCP · LangGraph · ONNX · MLX",
+          "state": "ok"
+        }
+      ]
+    },
+    {
+      "key": "rnd",
+      "type": "cards",
+      "title": "RESEARCH AND DEVELOPMENT",
+      "items": [
+        {
+          "title": "Arcade shooter",
+          "text": "Rust and Bevy, compiled to WASM, runs on my site."
+        },
+        {
+          "title": "Debater",
+          "text": "Agents argue on LangGraph with a readable trace."
+        },
+        {
+          "title": "Card scanner",
+          "text": "Private. Recognises trading cards on the phone, offline."
+        }
+      ]
+    }
+  ]
+}

@@ -40,7 +40,7 @@ FLAGSHIPS = [
         stats=[("8", "REPOS"), ("93.1%", "VISION EVAL"), ("MIT", "LICENSE")],
     ),
     dict(
-        key="code-context", index="02", status="RELEASED · NPM v2.8", word="CODE CONTEXT.",
+        key="code-context", index="02", status="RELEASED · NPM v2.11", word="CODE CONTEXT.",
         label="MCP SERVER FOR AI CODING AGENTS", sublabel="TYPESCRIPT · SQLITE · DASHBOARD",
         tagline=["Indexes a codebase into structured context for agents,",
                  "with persistent sprint and retro memory."],
