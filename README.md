@@ -41,20 +41,22 @@ Senior product engineer in Berlin. I own products from requirements to release: 
 
 ## // 02 EXPERIENCE
 
-<img alt="02 EXPERIENCE. OUTCOMES IN PRODUCTION" src="assets/readme/divider-impact-v4.svg" width="100%">
+<img alt="02 EXPERIENCE. END TO END, ACROSS ROLES" src="assets/readme/divider-impact-v4.svg" width="100%">
+
+Years of product work, from frontend specialist to full-stack product engineer. Today I plan, build and run whole applications, from the first requirement to production.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/ownership-v4-dark.svg">
+  <img alt="Plan: Requirements, architecture and UX for whole applications. A business problem becomes a scoped plan. Build: Features across frontend and backend, covered by unit, E2E and visual regression tests. Run: Infrastructure on AWS and Azure with Terraform. CI/CD, monitoring and releases. Improve: Rollout with the team, then measure in production and iterate" src="assets/readme/ownership-v4-light.svg" width="100%">
+</picture>
 
 **GALVANY** · Senior Software Engineer, Full-Stack / Product · Berlin · Feb 2025 to now
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/outcomes-v4-dark.svg">
-  <img alt="3-4x FASTER LEAD ASSIGNMENT. ~11% PREDICTED CONVERSION, FROM ~6%. 2 CLOUDS ON TERRAFORM" src="assets/readme/outcomes-v4-light.svg" width="100%">
-</picture>
-
-- Owns product engineering end to end at a high-growth energy company.
-- Built the lead management platform. Lead assignment is 3 to 4 times faster.
-- Built the scoring engine for lead-seller matching. Predicted conversion rose from about 6 % to 11 %.
-- Runs Laravel, React and TypeScript on AWS and Azure, provisioned with Terraform.
-- Covers each release with unit, E2E and visual regression tests.
+- Own product engineering end to end at a high-growth energy company.
+- Planned and built the lead management platform, from data model to UI. Lead assignment is 3 to 4 times faster.
+- Built the scoring engine that matches leads to sellers.
+- Run the infrastructure on AWS and Azure, provisioned with Terraform.
+- Ship each release with unit, E2E and visual regression tests.
 - The code is private. Case studies are on [velimir-mueller.de](https://velimir-mueller.de).
 
 <br>

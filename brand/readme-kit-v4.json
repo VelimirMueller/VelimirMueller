@@ -13,7 +13,7 @@
       "key": "impact",
       "index": "02",
       "title": "EXPERIENCE",
-      "caption": "OUTCOMES IN PRODUCTION",
+      "caption": "END TO END, ACROSS ROLES",
       "art": "strip-flagship-2"
     },
     {
@@ -109,21 +109,25 @@
       ]
     },
     {
-      "key": "outcomes",
-      "type": "stats",
-      "title": "SELECTED OUTCOMES · GALVANY",
+      "key": "ownership",
+      "type": "cards",
+      "title": "WHAT I OWN",
       "items": [
         {
-          "value": "3-4x",
-          "label": "FASTER LEAD ASSIGNMENT"
+          "title": "Plan",
+          "text": "Requirements, architecture and UX for whole applications. A business problem becomes a scoped plan."
         },
         {
-          "value": "~11%",
-          "label": "PREDICTED CONVERSION, FROM ~6%"
+          "title": "Build",
+          "text": "Features across frontend and backend, covered by unit, E2E and visual regression tests."
         },
         {
-          "value": "2",
-          "label": "CLOUDS ON TERRAFORM"
+          "title": "Run",
+          "text": "Infrastructure on AWS and Azure with Terraform. CI/CD, monitoring and releases."
+        },
+        {
+          "title": "Improve",
+          "text": "Rollout with the team, then measure in production and iterate."
         }
       ]
     },
