@@ -479,7 +479,26 @@
       "ownership",
       "role",
       "divider:flagships",
+      {
+        "image": "assets/cards/synthwerk-v4",
+        "alt": "SYNTHWERK. Modular AI services. In development, milestone M0.",
+        "href": "https://github.com/VelimirMueller/synthwerk"
+      },
+      {
+        "image": "assets/cards/code-context-v4",
+        "alt": "CODE CONTEXT. MCP server for AI coding agents. Released on npm.",
+        "href": "https://github.com/VelimirMueller/code-context-mcp"
+      },
+      {
+        "image": "assets/cards/portfolio-v4",
+        "alt": "PORTFOLIO. velimir-mueller.de. Live.",
+        "href": "https://github.com/VelimirMueller/portfolio-website"
+      },
       "synthlead",
+      {
+        "image": "assets/panels/synthwerk-map-v1",
+        "alt": "Synthwerk map. Studio, widgets and SDK on one API contract over identity, LLM and vision. Blueprint is shared by all repos."
+      },
       "synthwerk",
       {
         "buttons": "synthrepos",
@@ -517,9 +536,16 @@
         "buttons": "labrepos"
       },
       {
+        "image": "assets/logo/vm-logo-v1",
+        "alt": "VM, Velimir Müller",
+        "width": "72",
+        "align": "center"
+      },
+      {
         "buttons": "contact"
       },
       "foot"
-    ]
+    ],
+    "banner": "v4"
   }
 }
