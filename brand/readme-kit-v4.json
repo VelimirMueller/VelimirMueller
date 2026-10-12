@@ -485,7 +485,8 @@
           "label": "LICENSE"
         }
       ],
-      "art_file": "../assets/art/synthwerk.jpg"
+      "art_file": "../assets/art/synthwerk.jpg",
+      "state": "wip"
     },
     {
       "key": "flagship-code-context",
