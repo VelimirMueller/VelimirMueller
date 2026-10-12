@@ -286,6 +286,266 @@
           "text": "Private. Recognises trading cards on the phone, offline."
         }
       ]
+    },
+    {
+      "key": "about",
+      "type": "lead",
+      "title": "ABOUT",
+      "text": "Senior product engineer in Berlin. I own products from requirements to release: UX, full-stack code, cloud platform and the AI tooling that speeds up delivery."
+    },
+    {
+      "key": "career",
+      "type": "lead",
+      "title": "CAREER",
+      "text": "Years of product work, from frontend specialist to full-stack product engineer. Today I plan, build and run whole applications, from the first requirement to production."
+    },
+    {
+      "key": "role",
+      "type": "notes",
+      "title": "GALVANY · SENIOR SOFTWARE ENGINEER, FULL-STACK / PRODUCT · BERLIN · FEB 2025 TO NOW",
+      "columns": 2,
+      "items": [
+        {
+          "lead": "End to end",
+          "text": "Own product engineering end to end at a high-growth energy company."
+        },
+        {
+          "lead": "Lead management platform",
+          "text": "Planned and built it, from data model to UI. Lead assignment is 3 to 4 times faster."
+        },
+        {
+          "lead": "Scoring engine",
+          "text": "Built the scoring engine that matches leads to sellers."
+        },
+        {
+          "lead": "Infrastructure",
+          "text": "Run the infrastructure on AWS and Azure, provisioned with Terraform."
+        },
+        {
+          "lead": "Release quality",
+          "text": "Ship each release with unit, E2E and visual regression tests."
+        },
+        {
+          "lead": "Private code",
+          "text": "The code is private. Case studies are on [velimir-mueller.de](https://velimir-mueller.de)."
+        }
+      ]
+    },
+    {
+      "key": "synthlead",
+      "type": "lead",
+      "title": "SYNTHWERK",
+      "text": "**Synthwerk** is a set of small services, one repository per role."
+    },
+    {
+      "key": "process",
+      "type": "lead",
+      "title": "PROCESS",
+      "text": "Every change goes through the same gated pipeline. Most of the tooling is private; this is the process at a high level."
+    },
+    {
+      "key": "rules",
+      "type": "notes",
+      "title": "RULES OF THE PIPELINE",
+      "columns": 2,
+      "items": [
+        {
+          "lead": "Accountability",
+          "text": "I write the ticket, approve the spec and own the merge."
+        },
+        {
+          "lead": "Independent review",
+          "text": "Two models review each change. Both must approve before a PR opens."
+        },
+        {
+          "lead": "Release decisions by rule",
+          "text": "A release check reads the merged PRs. Fixed rules give GO or HOLD."
+        },
+        {
+          "lead": "Local first",
+          "text": "Image generation, document creation and code search run on my machine."
+        }
+      ]
+    },
+    {
+      "key": "contact",
+      "type": "buttons",
+      "items": [
+        {
+          "label": "Website",
+          "sub": "velimir-mueller.de",
+          "href": "https://velimir-mueller.de"
+        },
+        {
+          "label": "LinkedIn",
+          "sub": "profile",
+          "href": "https://www.linkedin.com/in/velimir-m%C3%BCller-07b460175"
+        },
+        {
+          "label": "Email",
+          "sub": "contact",
+          "href": "mailto:velimir.mueller@googlemail.com"
+        }
+      ]
+    },
+    {
+      "key": "synthrepos",
+      "type": "buttons",
+      "items": [
+        {
+          "label": "synthwerk",
+          "sub": "synthwerk",
+          "href": "https://github.com/VelimirMueller/synthwerk"
+        },
+        {
+          "label": "vision",
+          "sub": "synthwerk-vision",
+          "href": "https://github.com/VelimirMueller/synthwerk-vision"
+        },
+        {
+          "label": "sdk",
+          "sub": "synthwerk-sdk",
+          "href": "https://github.com/VelimirMueller/synthwerk-sdk"
+        },
+        {
+          "label": "blueprint",
+          "sub": "synthwerk-blueprint",
+          "href": "https://github.com/VelimirMueller/synthwerk-blueprint"
+        },
+        {
+          "label": "llm",
+          "sub": "synthwerk-llm",
+          "href": "https://github.com/VelimirMueller/synthwerk-llm"
+        },
+        {
+          "label": "identity",
+          "sub": "synthwerk-identity",
+          "href": "https://github.com/VelimirMueller/synthwerk-identity"
+        },
+        {
+          "label": "studio",
+          "sub": "synthwerk-studio",
+          "href": "https://github.com/VelimirMueller/synthwerk-studio"
+        },
+        {
+          "label": "widgets",
+          "sub": "synthwerk-widgets",
+          "href": "https://github.com/VelimirMueller/synthwerk-widgets"
+        }
+      ]
+    },
+    {
+      "key": "labrepos",
+      "type": "buttons",
+      "items": [
+        {
+          "label": "claude-skills",
+          "sub": "VelimirMueller/claude-skills",
+          "href": "https://github.com/VelimirMueller/claude-skills"
+        },
+        {
+          "label": "lab-arcade-shooter",
+          "sub": "VelimirMueller/lab-arcade-shooter",
+          "href": "https://github.com/VelimirMueller/lab-arcade-shooter"
+        },
+        {
+          "label": "lab-debater",
+          "sub": "VelimirMueller/lab-debater",
+          "href": "https://github.com/VelimirMueller/lab-debater"
+        }
+      ]
+    },
+    {
+      "key": "foot",
+      "type": "footer",
+      "studio": "VELIMIR MÜLLER · SENIOR PRODUCT ENGINEER · BERLIN",
+      "text": "velimir-mueller.de · linkedin · email",
+      "eof": "-- models propose. rules gate. I decide. --"
     }
-  ]
+  ],
+  "readme": {
+    "hero_alt": "VELIMIR MÜLLER. Senior product engineer, Berlin. Product, platform and AI tooling. End to end.",
+    "items": [
+      "about",
+      {
+        "buttons": "contact"
+      },
+      "stats",
+      "divider:profile",
+      "practice",
+      "focus",
+      "divider:impact",
+      "career",
+      "ownership",
+      "role",
+      "divider:flagships",
+      {
+        "image": "assets/cards/synthwerk-v4",
+        "alt": "SYNTHWERK. Modular AI services. In development, milestone M0.",
+        "href": "https://github.com/VelimirMueller/synthwerk"
+      },
+      {
+        "image": "assets/cards/code-context-v4",
+        "alt": "CODE CONTEXT. MCP server for AI coding agents. Released on npm.",
+        "href": "https://github.com/VelimirMueller/code-context-mcp"
+      },
+      {
+        "image": "assets/cards/portfolio-v4",
+        "alt": "PORTFOLIO. velimir-mueller.de. Live.",
+        "href": "https://github.com/VelimirMueller/portfolio-website"
+      },
+      "synthlead",
+      {
+        "image": "assets/panels/synthwerk-map-v1",
+        "alt": "Synthwerk map. Studio, widgets and SDK on one API contract over identity, LLM and vision. Blueprint is shared by all repos."
+      },
+      "synthwerk",
+      {
+        "buttons": "synthrepos",
+        "only": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "buttons": "synthrepos",
+        "only": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "buttons": "synthrepos",
+        "only": [
+          7,
+          8
+        ]
+      },
+      "divider:system",
+      "process",
+      "pipeline",
+      "controls",
+      "rules",
+      "principle",
+      "divider:stack",
+      "stack",
+      "rnd",
+      {
+        "buttons": "labrepos"
+      },
+      {
+        "image": "assets/logo/vm-logo-v1",
+        "alt": "VM, Velimir Müller",
+        "width": "72",
+        "align": "center"
+      },
+      {
+        "buttons": "contact"
+      },
+      "foot"
+    ],
+    "banner": "v4"
+  }
 }
