@@ -27,7 +27,7 @@ mp = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(mp)
 THEMES, MONO, MONO_B, SANS, t, pill = mp.THEMES, mp.MONO, mp.MONO_B, mp.SANS, mp.t, mp.pill
 CHROME = os.environ.get("CHROME", "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
-REPOS = {"synthwerk": "synthwerk", "code-context": "vlm-code-context-mcp", "portfolio": "portfolio-website"}
+REPOS = {"synthwerk": "synthwerk", "code-context": "code-context-mcp", "portfolio": "portfolio-website"}
 th = THEMES["dark"]  # the preview is always dark art
 
 
