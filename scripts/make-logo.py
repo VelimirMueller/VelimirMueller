@@ -67,13 +67,6 @@ def traces(size, th, seed=20261009):
     return out
 
 
-def mark(theme, size=512, uid=None, version="v2"):
-    """The logo's elements without the <svg> wrapper, for embedding (ids prefixed by uid)."""
-    if version == "v1":
-        return "\n".join(_elements(theme, size, uid or f"vm-logo-{theme}"))
-    return "\n".join(_elements2(theme, size, uid or f"vm-logo2-{theme}"))  # _elements2: v2 geometry, defined below
-
-
 def logo(theme, size=512):
     return "\n".join([
         HEAD,
@@ -192,6 +185,15 @@ def _elements2(theme, S, uid):
         "</g>",
         f'<rect x="0.5" y="0.5" width="{S - 1}" height="{S - 1}" rx="{r - 0.5:.1f}" fill="none" stroke="{th["rim"]}"/>',
     ]
+
+
+def mark(theme, size=512, uid=None, version="v2"):
+    """The logo's elements without the <svg> wrapper, for embedding (ids prefixed by uid).
+    v1 = _elements (circuit mark), v2 = _elements2 (geometric monogram, above)."""
+    parts = {"v1": _elements, "v2": _elements2}
+    if version not in parts:
+        raise ValueError(f"unknown logo version {version!r}; use v1 or v2")
+    return "\n".join(parts[version](theme, size, uid or f"vm-logo-{version}-{theme}"))
 
 
 def logo2(theme, size=512):
