@@ -98,7 +98,7 @@
         },
         {
           "label": "code-context-mcp",
-          "value": "Released · npm v2.11",
+          "value": "Released · npm v2.13",
           "state": "ok"
         },
         {
@@ -461,6 +461,82 @@
       "studio": "VELIMIR MÜLLER · SENIOR PRODUCT ENGINEER · BERLIN",
       "text": "velimir-mueller.de · linkedin · email",
       "eof": "-- models propose. rules gate. I decide. --"
+    },
+    {
+      "key": "flagship-synthwerk",
+      "type": "flagship",
+      "index": "01",
+      "title": "SYNTHWERK.",
+      "status": "IN DEVELOPMENT · M0",
+      "label": "MODULAR AI SERVICES",
+      "sublabel": "GO · PYTHON · NUXT · TYPESCRIPT · SELF-HOSTED",
+      "text": "Small services for AI chat, image labels and page building. One blueprint for CI, lint, docs and reviews across every repo.",
+      "stats": [
+        {
+          "value": "8",
+          "label": "REPOS"
+        },
+        {
+          "value": "93.1%",
+          "label": "VISION EVAL"
+        },
+        {
+          "value": "MIT",
+          "label": "LICENSE"
+        }
+      ],
+      "art_file": "../assets/art/synthwerk.jpg",
+      "state": "wip"
+    },
+    {
+      "key": "flagship-code-context",
+      "type": "flagship",
+      "index": "02",
+      "title": "CODE CONTEXT.",
+      "status": "RELEASED · NPM v2.13",
+      "label": "MCP SERVER FOR AI CODING AGENTS",
+      "sublabel": "TYPESCRIPT · SQLITE · DASHBOARD",
+      "text": "Indexes a codebase into structured context for agents, with persistent sprint and retro memory.",
+      "stats": [
+        {
+          "value": "97",
+          "label": "MCP TOOLS"
+        },
+        {
+          "value": "1",
+          "label": "SQLITE FILE"
+        },
+        {
+          "value": "0",
+          "label": "API KEYS"
+        }
+      ],
+      "art_file": "../assets/art/code-context.jpg"
+    },
+    {
+      "key": "flagship-portfolio",
+      "type": "flagship",
+      "index": "03",
+      "title": "PORTFOLIO.",
+      "status": "LIVE · v2.3",
+      "label": "VELIMIR-MUELLER.DE",
+      "sublabel": "NEXT.JS · SUPABASE · VERCEL · WASM",
+      "text": "Bilingual site with live demos, a Rust/WASM arcade and first-party, cookieless analytics.",
+      "stats": [
+        {
+          "value": "0",
+          "label": "COOKIES"
+        },
+        {
+          "value": "3",
+          "label": "LIVE DEMOS"
+        },
+        {
+          "value": "2",
+          "label": "LOCALES"
+        }
+      ],
+      "art_file": "../assets/art/portfolio.jpg"
     }
   ],
   "readme": {
@@ -480,18 +556,18 @@
       "role",
       "divider:flagships",
       {
-        "image": "assets/cards/synthwerk-v4",
-        "alt": "SYNTHWERK. Modular AI services. In development, milestone M0.",
+        "image": "assets/readme/flagship-synthwerk-v4",
+        "alt": "SYNTHWERK. MODULAR AI SERVICES. IN DEVELOPMENT · M0. Small services for AI chat, image labels and page building. One blueprint for CI, lint, docs and reviews across every repo. 8 REPOS. 93.1% VISION EVAL. MIT LICENSE",
         "href": "https://github.com/VelimirMueller/synthwerk"
       },
       {
-        "image": "assets/cards/code-context-v4",
-        "alt": "CODE CONTEXT. MCP server for AI coding agents. Released on npm.",
+        "image": "assets/readme/flagship-code-context-v4",
+        "alt": "CODE CONTEXT. MCP SERVER FOR AI CODING AGENTS. RELEASED · NPM v2.13. Indexes a codebase into structured context for agents, with persistent sprint and retro memory. 97 MCP TOOLS. 1 SQLITE FILE. 0 API KEYS",
         "href": "https://github.com/VelimirMueller/code-context-mcp"
       },
       {
-        "image": "assets/cards/portfolio-v4",
-        "alt": "PORTFOLIO. velimir-mueller.de. Live.",
+        "image": "assets/readme/flagship-portfolio-v4",
+        "alt": "PORTFOLIO. VELIMIR-MUELLER.DE. LIVE · v2.3. Bilingual site with live demos, a Rust/WASM arcade and first-party, cookieless analytics. 0 COOKIES. 3 LIVE DEMOS. 2 LOCALES",
         "href": "https://github.com/VelimirMueller/portfolio-website"
       },
       "synthlead",
@@ -536,9 +612,9 @@
         "buttons": "labrepos"
       },
       {
-        "image": "assets/logo/vm-logo-v1",
+        "image": "assets/logo/vm-logo-v2",
         "alt": "VM, Velimir Müller",
-        "width": "72",
+        "width": "96",
         "align": "center"
       },
       {
