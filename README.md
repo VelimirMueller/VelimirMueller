@@ -41,7 +41,7 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/readme/focus-v4-light.svg">
-  <img alt="GALVANY, Berlin: Senior product engineer · since Feb 2025. synthwerk: Modular AI services · milestone M0. code-context-mcp: Released · npm v2.11. velimir-mueller.de: Live · case studies and demos" src="assets/readme/focus-v4-dark.svg" width="100%">
+  <img alt="GALVANY, Berlin: Senior product engineer · since Feb 2025. synthwerk: Modular AI services · milestone M0. code-context-mcp: Released · npm v2.13. velimir-mueller.de: Live · case studies and demos" src="assets/readme/focus-v4-dark.svg" width="100%">
 </picture>
 </p>
 
@@ -81,8 +81,8 @@
 <p>
 <a href="https://github.com/VelimirMueller/synthwerk">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/cards/synthwerk-v4-light.svg">
-  <img alt="SYNTHWERK. Modular AI services. In development, milestone M0." src="assets/cards/synthwerk-v4-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/flagship-synthwerk-v4-light.svg">
+  <img alt="SYNTHWERK. MODULAR AI SERVICES. IN DEVELOPMENT · M0. Small services for AI chat, image labels and page building. One blueprint for CI, lint, docs and reviews across every repo. 8 REPOS. 93.1% VISION EVAL. MIT LICENSE" src="assets/readme/flagship-synthwerk-v4-dark.svg" width="100%">
 </picture>
 </a>
 </p>
@@ -90,8 +90,8 @@
 <p>
 <a href="https://github.com/VelimirMueller/code-context-mcp">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/cards/code-context-v4-light.svg">
-  <img alt="CODE CONTEXT. MCP server for AI coding agents. Released on npm." src="assets/cards/code-context-v4-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/flagship-code-context-v4-light.svg">
+  <img alt="CODE CONTEXT. MCP SERVER FOR AI CODING AGENTS. RELEASED · NPM v2.13. Indexes a codebase into structured context for agents, with persistent sprint and retro memory. 97 MCP TOOLS. 1 SQLITE FILE. 0 API KEYS" src="assets/readme/flagship-code-context-v4-dark.svg" width="100%">
 </picture>
 </a>
 </p>
@@ -99,8 +99,8 @@
 <p>
 <a href="https://github.com/VelimirMueller/portfolio-website">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/cards/portfolio-v4-light.svg">
-  <img alt="PORTFOLIO. velimir-mueller.de. Live." src="assets/cards/portfolio-v4-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/flagship-portfolio-v4-light.svg">
+  <img alt="PORTFOLIO. VELIMIR-MUELLER.DE. LIVE · v2.3. Bilingual site with live demos, a Rust/WASM arcade and first-party, cookieless analytics. 0 COOKIES. 3 LIVE DEMOS. 2 LOCALES" src="assets/readme/flagship-portfolio-v4-dark.svg" width="100%">
 </picture>
 </a>
 </p>
@@ -212,8 +212,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo/vm-logo-v1-light.svg">
-  <img alt="VM, Velimir Müller" src="assets/logo/vm-logo-v1-dark.svg" width="72">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo/vm-logo-v2-light.svg">
+  <img alt="VM, Velimir Müller" src="assets/logo/vm-logo-v2-dark.svg" width="96">
 </picture>
 </p>
 
