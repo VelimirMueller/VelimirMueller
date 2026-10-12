@@ -485,8 +485,8 @@
           "label": "LICENSE"
         }
       ],
-      "art_file": "../assets/art/synthwerk.jpg",
-      "state": "wip"
+      "state": "wip",
+      "art": "synthwerk"
     },
     {
       "key": "flagship-code-context",
@@ -511,7 +511,7 @@
           "label": "API KEYS"
         }
       ],
-      "art_file": "../assets/art/code-context.jpg"
+      "art": "code-context-mcp"
     },
     {
       "key": "flagship-portfolio",
@@ -536,7 +536,7 @@
           "label": "LOCALES"
         }
       ],
-      "art_file": "../assets/art/portfolio.jpg"
+      "art": "portfolio-website"
     }
   ],
   "readme": {
