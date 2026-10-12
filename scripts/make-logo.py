@@ -67,9 +67,11 @@ def traces(size, th, seed=20261009):
     return out
 
 
-def mark(theme, size=512, uid=None):
+def mark(theme, size=512, uid=None, version="v2"):
     """The logo's elements without the <svg> wrapper, for embedding (ids prefixed by uid)."""
-    return "\n".join(_elements(theme, size, uid or f"vm-logo-{theme}"))
+    if version == "v1":
+        return "\n".join(_elements(theme, size, uid or f"vm-logo-{theme}"))
+    return "\n".join(_elements2(theme, size, uid or f"vm-logo2-{theme}"))
 
 
 def logo(theme, size=512):
