@@ -29,3 +29,9 @@ Negative prompt: text, letters, logo, watermark, people, clutter, oversaturated 
 
 ## Site link preview (z-image-turbo, 1536x800, seed 81, resized and cropped to 1200x630, q82)
 - og (81): same prompt as linkedin, mirrored: "composition weighted to the right, dark empty left side". Same negative prompt.
+
+## social-*.jpg, since 2026-10-13
+
+No own prompt. Cut from the vm-brand v2 renders (`vm-brand/assets/art/v2/{synthwerk,code-context-mcp,portfolio-website}.png`,
+seeds 311, 319, 321, graded indigo by `render-queue.sh`): scaled to 640 px high, subject moved to the right third
+(x ≈ 900–960), left edge filled with the render's own near-black. The flagship cards in the README use the same renders.
