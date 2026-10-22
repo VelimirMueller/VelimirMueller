@@ -1,0 +1,12 @@
+{
+  "$comment": "VM. studio brand manifest — see vm-brand/PLAYBOOK.md §7",
+  "group": "flagship",
+  "tagline": "Product, platform and AI tooling. End to end.",
+  "sublabel": "SENIOR PRODUCT ENGINEER · BERLIN",
+  "bannerVersion": "v4",
+  "art": {
+    "file": "v2/profile.png",
+    "seed": 322
+  },
+  "readme": "v3"
+}
