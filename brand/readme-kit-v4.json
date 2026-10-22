@@ -457,7 +457,7 @@
       ]
     },
     {
-      "key": "foot",
+      "key": "footer",
       "type": "footer",
       "studio": "VELIMIR MÜLLER · SENIOR PRODUCT ENGINEER · BERLIN",
       "text": "velimir-mueller.de · linkedin · email",
@@ -621,7 +621,7 @@
       {
         "buttons": "contact"
       },
-      "foot"
+      "footer"
     ],
     "banner": "v4"
   }

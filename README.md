@@ -225,7 +225,7 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/readme/foot-v4-light.svg">
-  <img alt="VELIMIR MÜLLER · SENIOR PRODUCT ENGINEER · BERLIN · velimir-mueller.de · linkedin · email · -- models propose. rules gate. I decide. --" src="assets/readme/foot-v4-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/footer-v4-light.svg">
+  <img alt="VELIMIR MÜLLER · SENIOR PRODUCT ENGINEER · BERLIN · velimir-mueller.de · linkedin · email · -- models propose. rules gate. I decide. --" src="assets/readme/footer-v4-dark.svg" width="100%">
 </picture>
 </p>
