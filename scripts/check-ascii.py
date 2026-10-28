@@ -11,6 +11,7 @@ Exit 0: all rules pass. Exit 1: a rule fails.
 Usage: python3 scripts/check-ascii.py            # README.md + assets/ascii
        python3 scripts/check-ascii.py other.md
 """
+
 import glob
 import os
 import re
@@ -49,7 +50,8 @@ def main():
             start = text[: m.start()].count("\n") + 2
             block = m.group(1).rstrip("\n").split("\n")
             is_wordmark = any(BLOCK in line for line in block[:5]) and all(
-                set(line) <= {BLOCK, " "} for line in block[:5])
+                set(line) <= {BLOCK, " "} for line in block[:5]
+            )
             errors += check(f"{doc} (block at line {start}) row", block, is_wordmark)
             count += 1
     for path in sorted(glob.glob("assets/ascii/*.txt")):
